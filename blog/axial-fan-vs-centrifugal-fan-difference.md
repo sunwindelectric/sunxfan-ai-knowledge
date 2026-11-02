@@ -1,6 +1,7 @@
 ---
 title: "How Does an Axial Fan Differ from a Centrifugal Fan?"
 description: "Axial fan vs centrifugal fan compared: airflow, static pressure, impellers, EC·DC·AC motors and applications — 30-second selection guide for industrial buyers."
+layout: kb
 ---
 
 # How Does an Axial Fan Differ from a Centrifugal Fan?

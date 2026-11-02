@@ -1,6 +1,7 @@
 ---
 title: "CAV vs VAV Fan Systems: Which Airflow Strategy Should You Specify?"
 description: "Constant air volume (CAV) wins on stability, compliance and low maintenance; variable air volume (VAV) wins on demand-matched airflow and part-load energy. A field-level comparison of both strategies — including the series-stacking trap that unbalances CAV and VAV terminals, and how EC fans with central static-pressure control let both coexist."
+layout: kb
 ---
 
 # CAV vs VAV Fan Systems: Which Airflow Strategy Should You Specify?

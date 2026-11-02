@@ -1,6 +1,7 @@
 ---
 title: "HRV vs ERV: A Guide to Heat-Recovery Ventilation Fans"
 description: "What separates a heat-recovery ventilator from an energy-recovery ventilator, which climates each one suits, and why the EC dual-inlet centrifugal fan has become the motor of choice inside both."
+layout: kb
 ---
 
 # HRV vs ERV: A Guide to Heat-Recovery Ventilation Fans

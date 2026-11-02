@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title | escape }}</title>
+<meta name="description" content="{{ page.description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta name="robots" content="index,follow">
+<style>
+body{margin:0;font:16px/1.65 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#222;background:#fff}
+main{max-width:860px;margin:0 auto;padding:32px 20px 64px}
+h1{font-size:1.7rem;line-height:1.25;margin:0 0 20px}
+h2{font-size:1.25rem;margin:32px 0 12px;border-bottom:1px solid #eee;padding-bottom:6px}
+a{color:#0b57d0;text-decoration:none}
+a:hover{text-decoration:underline}
+hr{border:0;border-top:1px solid #eee;margin:32px 0}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{border:1px solid #ddd;padding:6px 10px;text-align:left}
+</style>
+</head>
+<body>
+<main>
+{{ content }}
+</main>
+</body>
+</html>

@@ -1,6 +1,7 @@
 ---
 title: "AS Axial Fan- Guard-Ring Series — Axial Fan"
 description: "AS Axial Fan- Guard-Ring series: 4 models with airflow, static pressure, voltage, power, speed, noise and control data."
+layout: kb
 ---
 
 # AS Axial Fan- Guard-Ring — Axial Fan

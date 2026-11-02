@@ -1,6 +1,7 @@
 ---
 title: "AF Axial Fan- Guard Series — Axial Fan"
 description: "AF Axial Fan- Guard series: 5 models with airflow, static pressure, voltage, power, speed, noise and control data."
+layout: kb
 ---
 
 # AF Axial Fan- Guard — Axial Fan

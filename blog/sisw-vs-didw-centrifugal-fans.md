@@ -1,6 +1,7 @@
 ---
 title: "SISW vs DIDW Centrifugal Fans: What Is the Difference?"
 description: "SISW vs DIDW centrifugal fans explained with real 230 VAC EC data: SF146C-E092B3-01 (705 Pa) vs DG200D-E092E3-01 (500 Pa) — inlets, static pressure and selection."
+layout: kb
 ---
 
 # SISW vs DIDW Centrifugal Fans: What Is the Difference?

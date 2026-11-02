@@ -1,6 +1,7 @@
 ---
 title: "Dual-Inlet vs. Single-Inlet Blowers: Pros & Cons"
 description: "A practical guide to choosing between dual-inlet and single-inlet centrifugal blowers, comparing airflow, static pressure, cost, noise and maintenance for HVAC and industrial ventilation systems."
+layout: kb
 ---
 
 # Dual-Inlet vs. Single-Inlet Blowers: Pros & Cons

@@ -1,6 +1,7 @@
 ---
 title: "Choosing a Fan System: Commercial vs. Residential"
 description: "Discover the core differences between commercial and residential ventilation systems. Learn how to select the right fan based on airflow, static pressure, and…"
+layout: kb
 ---
 
 # Choosing a Fan System: Commercial vs. Residential

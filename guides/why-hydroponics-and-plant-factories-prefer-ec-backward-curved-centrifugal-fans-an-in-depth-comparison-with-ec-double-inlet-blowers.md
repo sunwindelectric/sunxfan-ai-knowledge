@@ -1,6 +1,7 @@
 ---
 title: "Why Hydroponics Prefer EC Backward-Curved Fans"
 description: "In modern agriculture—such as hydroponics, soilless farming, and year-round indoor cultivation—precise microclimate control is the core driver of high crop…"
+layout: kb
 ---
 
 # Why Hydroponics Prefer EC Backward-Curved Fans

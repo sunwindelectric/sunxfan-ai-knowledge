@@ -1,6 +1,7 @@
 ---
 title: "Plastic vs Metal Volute: Which Centrifugal Fan Housing to Choose"
 description: "Plastic (PA66-GF) and metal volutes differ in weight, corrosion behaviour, temperature limits and tooling cost. Here is how to choose for HVAC, range hoods and industrial ducting."
+layout: kb
 ---
 
 # Plastic vs Metal Volute: Which Centrifugal Fan Housing to Choose

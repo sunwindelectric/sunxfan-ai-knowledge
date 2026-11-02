@@ -1,6 +1,7 @@
 ---
 title: "DUCT-FAN-230VAC Series — Fan Units"
 description: "DUCT-FAN-230VAC series: 7 models with airflow, static pressure, voltage, power, speed, noise and control data."
+layout: kb
 ---
 
 # DUCT-FAN-230VAC — Fan Units

@@ -1,6 +1,7 @@
 ---
 title: "Range Hood Extractor Blowers & Kitchen Exhaust Fans"
 description: "Dual-inlet centrifugal blowers for range hoods and kitchen ventilation — 720–1690 m³/h across 24V/48V/310V DC and 115V/230V AC, with stepless speed control and noise from 52 dB(A).It meets the EU A+++ energy efficiency requirements."
+layout: kb
 ---
 
 # Range Hood Extractor Blowers & Kitchen Exhaust Fans

@@ -1,6 +1,7 @@
 ---
 title: "Fan Manufacturers: Comparison & Selection Guide"
 description: "Selecting external rotor fans requires evaluating electrical topology, bus communication, static pressure requirements, certifications, and total cost of…"
+layout: kb
 ---
 
 # Fan Manufacturers: Comparison & Selection Guide

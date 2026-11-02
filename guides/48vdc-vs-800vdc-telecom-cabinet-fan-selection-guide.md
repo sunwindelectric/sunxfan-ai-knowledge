@@ -1,6 +1,7 @@
 ---
 title: "48VDC vs. 800VDC: Telecom Cabinet Fan Selection Guide"
 description: "In the deployment of 5G/6G telecom networks, edge computing, and outdoor integrated cabinets, thermal management is critical for ensuring zero-downtime…"
+layout: kb
 ---
 
 # 48VDC vs. 800VDC: Telecom Cabinet Fan Selection Guide

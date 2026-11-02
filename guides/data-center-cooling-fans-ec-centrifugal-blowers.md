@@ -1,6 +1,7 @@
 ---
 title: "Data Center Cooling Fans & EC Centrifugal Blowers"
 description: "High-static-pressure EC centrifugal blowers for server racks, CRAC/AHU and DC power systems — 1050–25000 m³/h, up to 1500 Pa, with 0-10V/PWM temperature-driven & Modbus RTU(RS485) speed control."
+layout: kb
 ---
 
 # Data Center Cooling Fans & EC Centrifugal Blowers

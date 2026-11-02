@@ -1,6 +1,7 @@
 ---
 title: "Why Are Rack-Mount Fan Packages More Popular?"
 description: "Rack-mount fan packages win on integration: compact EC blowers with removable intake grille, washable filter, potentiometer speed control and reserved RS485 — CF146 vs CF160."
+layout: kb
 ---
 
 # Why Are Rack-Mount Fan Packages More Popular?

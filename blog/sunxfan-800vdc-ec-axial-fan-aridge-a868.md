@@ -1,6 +1,7 @@
 ---
 title: "SUNXFAN 800 VDC EC Axial Fan in ARIDGE-A868 eVTOL"
 description: "SUNXFAN supplies ARIDGE — the world's leading low-altitude mobility creator and Asia's largest flying-car company — with a newly designed 800 VDC EC axial fan featuring dual isolated inputs and CAN FD communication for stable cooling aboard the A868 eVTOL."
+layout: kb
 ---
 
 # SUNXFAN 800 VDC EC Axial Fan in ARIDGE-A868 eVTOL

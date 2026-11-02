@@ -1,6 +1,7 @@
 ---
 title: "EC Fan Products Guide: Centrifugal & Axial Series"
 description: "A guided tour of the complete SUNXFAN fan product puzzle: 120+ models across 25 series in two families — EC centrifugal fans (SF, BC, DG, CF duct units) and DC/EC axial fans (AF, AS, AG, 800VDC) — all built on one IE5 PMSM motor platform, with representative models like the SF146A-E092A3-02 and AG305A-D092BA-Y1."
+layout: kb
 ---
 
 # EC Fan Products Guide: Centrifugal & Axial Series

@@ -1,6 +1,7 @@
 ---
 title: "Marine Blower Selection Guide: Why Dual-Inlet Centrifugal Blowers Come First"
 description: "Where blowers work on board — engine rooms, accommodation, yachts and cruising cabins — and why the dual-inlet centrifugal blower, with two suction faces and one discharge, has become the first choice for marine ventilation duty."
+layout: kb
 ---
 
 # Marine Blower Selection Guide: Why Dual-Inlet Centrifugal Blowers Come First

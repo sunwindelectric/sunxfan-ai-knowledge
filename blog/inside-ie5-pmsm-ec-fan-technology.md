@@ -1,6 +1,7 @@
 ---
 title: "IE5 PMSM Motors: How Smart EC Fans Cut Energy Use"
 description: "A spec-driven guide to how IE5 ultra-premium PMSM motors, native 0-10V/PWM and 4-speed control, and CFD-validated impellers raise efficiency, cut energy use and simplify integration in EC centrifugal and axial fans."
+layout: kb
 ---
 
 # IE5 PMSM Motors: How Smart EC Fans Cut Energy Use

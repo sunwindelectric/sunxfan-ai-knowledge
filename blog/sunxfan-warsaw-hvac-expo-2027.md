@@ -1,6 +1,7 @@
 ---
 title: "SUNXFAN to Exhibit at Warsaw HVAC Expo 2027 (Hall F1, Booth 40C)"
 description: "SUNXFAN will exhibit at Warsaw HVAC Expo 2027, held from 23 to 25 February 2027 at Ptak Warsaw Expo in Nadarzyn, Poland. SUNXFAN's booth is Hall F1, Booth 40C."
+layout: kb
 ---
 
 # SUNXFAN to Exhibit at Warsaw HVAC Expo 2027 (Hall F1, Booth 40C)

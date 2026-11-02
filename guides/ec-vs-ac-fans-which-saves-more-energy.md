@@ -1,6 +1,7 @@
 ---
 title: "EC vs AC Fans: Which Saves More Energy?"
 description: "Electronically commutated (EC) fans vs traditional AC fans — efficiency, speed control, noise and total cost of ownership, with real EC models from SUNXFAN."
+layout: kb
 ---
 
 # EC vs AC Fans: Which Saves More Energy?

@@ -1,6 +1,7 @@
 ---
 title: "Top Centrifugal Fan Manufacturers Worldwide"
 description: "An objective overview of the leading centrifugal fan manufacturers and suppliers worldwide — EBM-Papst, Greenheck, Systemair, SUNXFAN and Twin City Fan."
+layout: kb
 ---
 
 # Top Centrifugal Fan Manufacturers Worldwide

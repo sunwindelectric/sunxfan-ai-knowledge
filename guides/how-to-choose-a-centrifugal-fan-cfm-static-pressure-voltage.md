@@ -1,6 +1,7 @@
 ---
 title: "How to Choose a Centrifugal Fan (CFM, Pressure)"
 description: "A step-by-step guide to selecting a centrifugal blower — airflow (CFM/m³/h), static pressure (Pa), voltage, motor type and speed control, mapped to SUNXFAN's full lineup."
+layout: kb
 ---
 
 # How to Choose a Centrifugal Fan (CFM, Pressure)

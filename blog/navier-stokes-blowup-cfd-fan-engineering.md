@@ -1,6 +1,7 @@
 ---
 title: "Navier–Stokes Blow-Up: Does Fan CFD Still Hold Up?"
 description: "The 2026 shift in Navier–Stokes research is not a collapse of CFD. It is a sharper statement about where the equations can be trusted — and where fan engineers must lean on test data."
+layout: kb
 ---
 
 # Navier–Stokes Blow-Up: Does Fan CFD Still Hold Up?

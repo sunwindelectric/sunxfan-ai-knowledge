@@ -1,6 +1,7 @@
 ---
 title: "800VDC Axial Fan Series — Axial Fan"
 description: "800VDC Axial Fan series: 3 models with airflow, static pressure, voltage, power, speed, noise and control data."
+layout: kb
 ---
 
 # 800VDC Axial Fan — Axial Fan

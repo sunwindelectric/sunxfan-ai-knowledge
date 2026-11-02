@@ -1,6 +1,7 @@
 ---
 title: "Why 800VDC Brushless Fans Are the New Standard"
 description: "800VDC brushless DC/EC fans draw power directly from the high-voltage DC link, eliminating step-down conversion to cut weight and energy losses. With CAN FD telemetry, they are becoming the core cooling solution for megawatt-class high-voltage applications."
+layout: kb
 ---
 
 # Why 800VDC Brushless Fans Are the New Standard

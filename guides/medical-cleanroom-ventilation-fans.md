@@ -1,6 +1,7 @@
 ---
 title: "Medical & Cleanroom Ventilation Fans"
 description: "Low-noise EC/DC centrifugal blowers for medical equipment, cleanrooms and laboratories — 720–1800 m³/h, IP44 options, stepless speed control and noise from 52 dB(A)."
+layout: kb
 ---
 
 # Medical & Cleanroom Ventilation Fans

@@ -1,6 +1,7 @@
 ---
 title: "Mechanical Ventilation Types Explained: MVHR, ERV and PIV"
 description: "A plain-language tour of the main mechanical ventilation types — exhaust-only, supply-only, balanced, MVHR, ERV and, for existing UK housing, PIV — and the role fan components play in each."
+layout: kb
 ---
 
 # Mechanical Ventilation Types Explained: MVHR, ERV and PIV

@@ -1,6 +1,7 @@
 ---
 title: "EC Double-Inlet Centrifugal Fan: 2026 Launch"
 description: "SUNXFAN launched the SF146D-E092A3-02 — a full-PP corrosion-resistant EC double-inlet centrifugal fan — in 2026. A spec-driven comparison with the SF146A and SF160 series across AHUs, range hoods, laminar airflow beds, IVD equipment and ERV/HRV systems."
+layout: kb
 ---
 
 # EC Double-Inlet Centrifugal Fan: 2026 Launch

@@ -1,6 +1,7 @@
 ---
 title: "SUNXFAN — Company and Contact"
 description: "Foshan Sunwind Electric Co., Ltd. — EC, DC and AC fan manufacturer in Foshan, China."
+layout: kb
 ---
 
 # SUNXFAN — Company and Contact

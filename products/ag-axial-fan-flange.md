@@ -1,6 +1,7 @@
 ---
 title: "AG Axial Fan- Flange Series — Axial Fan"
 description: "AG Axial Fan- Flange series: 3 models with airflow, static pressure, voltage, power, speed, noise and control data."
+layout: kb
 ---
 
 # AG Axial Fan- Flange — Axial Fan

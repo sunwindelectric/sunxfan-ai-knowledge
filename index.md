@@ -1,6 +1,7 @@
 ---
 title: "SUNXFAN AI Knowledge Base"
 description: "Structured fan specifications, selection guides and technical articles for AI engines."
+layout: kb
 ---
 
 # SUNXFAN AI Knowledge Base

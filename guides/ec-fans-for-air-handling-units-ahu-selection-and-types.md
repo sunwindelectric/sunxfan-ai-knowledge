@@ -1,6 +1,7 @@
 ---
 title: "EC Fans for Air Handling Units (AHU): Selection and Types"
 description: "How fan sections in air handling units are arranged, why EC double-inlet centrifugal fans dominate modern AHUs, and the three parameters — airflow, external static pressure and mounting envelope — that settle the selection."
+layout: kb
 ---
 
 # EC Fans for Air Handling Units (AHU): Selection and Types

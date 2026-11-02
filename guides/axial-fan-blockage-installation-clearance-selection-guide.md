@@ -1,6 +1,7 @@
 ---
 title: "What is the impact of blockage on the performance of an axial fan?"
 description: "Catalogue fan curves are measured with a free inlet and a free outlet. Real installations block both sides — guard grilles, wall rings, coils, plenums, louvered walls and enclosure panels — and a blocked axial fan loses airflow in exactly the region where the rating promises the most. This guide gives the mechanism, a three-line calculation method, the measured clearance rules, and worked numbers for the AS910A-E150A3-01 so that a system designer can correct a catalogue curve for a real installation instead of discovering the shortfall during commissioning."
+layout: kb
 ---
 
 # What is the impact of blockage on the performance of an axial fan?

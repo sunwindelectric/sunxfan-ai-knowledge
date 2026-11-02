@@ -1,6 +1,7 @@
 ---
 title: "UNIT-VENTILATOR Series — Fan Units"
 description: "UNIT-VENTILATOR series: 2 models with airflow, static pressure, voltage, power, speed, noise and control data."
+layout: kb
 ---
 
 # UNIT-VENTILATOR — Fan Units
