@@ -38,3 +38,7 @@ Choosing a kitchen extractor blower comes down to three things: enough airflow t
 ## Bottom Line
 
 For most residential range hoods, the **SF146A-E092A3-02** (230 V AC, 1080 m³/h) hits the airflow/price/noise sweet spot for European and global markets, while **SF146A-E092A1-01** (115 V AC, 860 m³/h) covers North America. For high-CFM island hoods and commercial extraction, step up to the **SF160D-E092B3-42** (1690 m³/h) or the universal-voltage **SF235A-E092B3-F2**. Tell us your hood width, ducting and regional voltage, and our engineers will confirm the exact model.
+
+---
+
+_Last updated: 2026-11-02_

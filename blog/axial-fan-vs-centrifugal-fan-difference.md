@@ -150,3 +150,7 @@ Browse the full [product catalog](/en/products/) or contact our engineering
 team for a selection review — share your airflow (m³/h), required static
 pressure (Pa) and available space, and we will recommend the shortest path to
 a validated fan solution.
+
+---
+
+_Last updated: 2026-11-02_

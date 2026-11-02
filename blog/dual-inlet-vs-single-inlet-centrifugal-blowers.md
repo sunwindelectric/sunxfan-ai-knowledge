@@ -105,3 +105,7 @@ humid environments.
 In short: choose single-inlet for compact, budget-sensitive, moderate-airflow
 applications; choose dual-inlet for high-airflow, high-static-pressure or
 distribution-critical HVAC and industrial systems.
+
+---
+
+_Last updated: 2026-11-02_

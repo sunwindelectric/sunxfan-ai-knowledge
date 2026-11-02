@@ -52,3 +52,7 @@ Match control to the application (0-10V/PWM, 0-5V, 0-6.5V, Modbus RTU, 3/4-speed
 ## Bottom Line
 
 Work the four steps in order: airflow → static pressure → voltage → control. If you are unsure of your system's pressure drop, send us the duct layout, filter type and heat load, and we will size the fan and confirm the model, voltage and speed-control configuration.
+
+---
+
+_Last updated: 2026-11-02_

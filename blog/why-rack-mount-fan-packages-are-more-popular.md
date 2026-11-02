@@ -110,3 +110,7 @@ filter the [fan units category](/en/products/?category=fan-units) for
 compatibility options. For background on the centrifugal technology inside
 these packages, see our
 [SISW vs DIDW comparison](/en/blog/sisw-vs-didw-centrifugal-fans/).
+
+---
+
+_Last updated: 2026-11-02_

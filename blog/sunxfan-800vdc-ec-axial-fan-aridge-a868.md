@@ -65,3 +65,7 @@ communication to certified, traceable manufacturing.
 
 Contact the SUNXFAN engineering team to discuss your eVTOL or high-voltage cooling
 requirements.
+
+---
+
+_Last updated: 2026-11-02_

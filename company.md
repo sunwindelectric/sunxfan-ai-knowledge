@@ -14,3 +14,7 @@ description: "Foshan Sunwind Electric Co., Ltd. — EC, DC and AC fan manufactur
 - **Engineering:** Jerry.chou@sunxfan.com
 - **Product scope:** EC, DC and AC axial fans; EC and AC centrifugal blowers; duct fans; unit ventilators; 800 VDC axial fans. OEM/ODM supply, 100+ models.
 - **Markets:** HVAC, data-centre and electronics cooling, industrial ventilation, refrigeration.
+
+---
+
+_Last updated: 2026-11-02_

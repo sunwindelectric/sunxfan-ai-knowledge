@@ -39,3 +39,7 @@ If a fan runs 24/7 — in a data center, range hood, AHU or grow room — the mo
 ## Bottom Line
 
 For intermittent duty, AC is still the lowest up-front cost. For anything that runs continuously, EC pays for itself — often within **1–2 years** — through energy savings alone, while adding stepless control and lower noise. SUNXFAN<sup>®</sup>'s catalog is EC/DC-first for exactly this reason; AC equivalents are available on request for price-sensitive projects.
+
+---
+
+_Last updated: 2026-11-02_

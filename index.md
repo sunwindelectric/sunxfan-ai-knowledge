@@ -72,3 +72,7 @@ Structured Markdown knowledge base for AI engines and agents. Start with [agent_
 - [What is the impact of blockage on the performance of an axial fan?](guides/axial-fan-blockage-installation-clearance-selection-guide.html)
 - [Why 800VDC Brushless Fans Are the New Standard](guides/why-800vdc-brushless-fans-are-the-new-standard-for-megawatt-high-voltage-thermal-management.html)
 - [Why Hydroponics Prefer EC Backward-Curved Fans](guides/why-hydroponics-and-plant-factories-prefer-ec-backward-curved-centrifugal-fans-an-in-depth-comparison-with-ec-double-inlet-blowers.html)
+
+---
+
+_Last updated: 2026-11-02_

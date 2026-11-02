@@ -102,3 +102,7 @@ A: The flange version bolts into a cut-out and carries its weight through the fl
 **Q: How much static pressure can an axial fan realistically deliver?**
 
 A: This one is rated to 300 Pa — a typical ceiling for a well-made axial of this class before efficiency and noise degrade badly. That covers coils, louvres and short ducts, the native duty of axial fans. Beyond roughly 300-500 Pa the honest answer is a centrifugal: pushing an axial into high pressure puts it in stall-prone territory with a harsh tonal signature. Pick the fan type from the system resistance first, then the model.
+
+---
+
+_Last updated: 2026-11-02_

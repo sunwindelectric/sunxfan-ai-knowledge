@@ -91,3 +91,7 @@ headroom to scale it across a fleet.
 
 Contact the SUNXFAN<sup>®</sup> engineering team to run a fan-matching analysis against your
 operating point, or request a sample for validation.
+
+---
+
+_Last updated: 2026-11-02_

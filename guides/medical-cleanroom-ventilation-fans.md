@@ -41,3 +41,7 @@ For filter banks and ducted cleanrooms, the EC forward-curved **SF146C** double-
 ## Bottom Line
 
 For most lab and medical equipment, the **SF146A-E092A3-02** (230 V AC, 1080 m³/h) is the go-to quiet, efficient choice. Where static pressure through filters or an IP44 washdown rating is required, move to the **SF146C** series. Tell us your airflow target, filter resistance and acoustic limits, and we will confirm the exact model.
+
+---
+
+_Last updated: 2026-11-02_

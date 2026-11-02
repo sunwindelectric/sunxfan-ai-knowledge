@@ -216,3 +216,7 @@ An axial fan catalogue curve is a free-inlet, free-outlet curve, and a real inst
 For the AS series, four numbers settle most arguments: **half an impeller diameter (455 mm) to any inlet wall, about one impeller diameter (910 mm) to the first downstream obstruction, ≥ 70% guard free area (V′ ≤ 15.3 m/s at 25,000 m³/h), and an inlet lip worth 3.4 Pa against 61.6 Pa for a square edge.** Spend the small money on the ring and the guard, place the loss on the system curve as Δp_se = K_se × ½ρV′², and commission with a differential pressure reading instead of an assumption.
 
 For a unit-by-unit comparison across the family, see the [AS Axial-Fan Integrated Guard Ring series](/en/products/series/as-axial-fan-guard-ring/) or the [AS910A-E150A3-01 product page](/en/products/as910a-e150a3-01/). If your duty is dominated by static pressure rather than by bulk airflow, compare against the [centrifugal fan selection guide](/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/) before committing to an axial fan.
+
+---
+
+_Last updated: 2026-11-02_

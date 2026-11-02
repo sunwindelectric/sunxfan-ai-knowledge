@@ -57,3 +57,7 @@ For how these units sit inside a wider ventilation strategy, see the [commercial
 ## Bottom Line
 
 HRV moves heat, ERV moves heat and moisture — and the climate you build in picks between them. Whichever the cabinet holds, the fan inside is now an EC dual-inlet centrifugal: quiet enough for bedrooms, stable against wind and filters, and cheap to run because it spends its life at low speed. Tell us your unit's airflow and pressure target, and we will match the fan from our [double-inlet centrifugal range](/en/products/double-inlet/).
+
+---
+
+_Last updated: 2026-11-02_

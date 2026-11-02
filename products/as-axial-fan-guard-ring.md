@@ -141,3 +141,7 @@ A: The EC electronics expose the fan as a Modbus RTU slave: the BMS writes the s
 - **MOQ:** 70 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+---
+
+_Last updated: 2026-11-02_

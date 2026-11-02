@@ -47,3 +47,7 @@ Choosing between the families comes down to one question: is your system pressur
 Browse the full catalog on our [products page](/en/products/), explore each series page for performance envelopes, or send us your duty point through the RFQ form on any page — our engineers will help you find exactly the right puzzle piece.
 
 <p style="clear:both;"></p>
+
+---
+
+_Last updated: 2026-11-02_

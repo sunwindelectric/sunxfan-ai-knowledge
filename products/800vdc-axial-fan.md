@@ -122,3 +122,7 @@ A: It turns the fan from an anonymous load into a reporting device. Over CAN FD 
 - **MOQ:** 144 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+---
+
+_Last updated: 2026-11-02_

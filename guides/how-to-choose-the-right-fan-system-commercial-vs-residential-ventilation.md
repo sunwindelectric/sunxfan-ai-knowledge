@@ -41,3 +41,7 @@ Residential systems benefit immensely from the compact nature of external rotor 
 Whether you are designing a massive plant factory climate control system or a high-end residential HRV, the motor technology dictates the system's success. Traditional AC motors are rapidly becoming obsolete due to their poor partial-load efficiency.
 
 External rotor EC motors provide the ultimate solution. By integrating the motor and impeller into a single, aerodynamically optimized unit, they reduce mechanical losses and operate at up to 90% efficiency. Furthermore, they allow for precise, step-less speed regulation. Choosing a highly engineered EC fan ensures your ventilation system is future-proofed against rising energy costs and stricter environmental regulations.
+
+---
+
+_Last updated: 2026-11-02_

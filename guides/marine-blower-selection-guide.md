@@ -60,3 +60,7 @@ Fit the blower so the two inlets stay unobstructed — a starved inlet destroys 
 ## Bottom Line
 
 Marine ventilation duties are varied, but the physics never changes: move air through resistance, quietly, in a tight space, for decades. The dual-inlet centrifugal blower — two inlets, one discharge, balanced suction, shorter body — does it best, and the EC outer-rotor motor makes it quieter and controllable on top. Tell us the compartment volume, the duct run and the noise limit, and we will match the blower from our [dual-inlet centrifugal range](/en/products/double-inlet/).
+
+---
+
+_Last updated: 2026-11-02_

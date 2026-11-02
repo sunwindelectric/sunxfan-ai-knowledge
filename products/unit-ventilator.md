@@ -88,3 +88,7 @@ A: Inline fans are best suited for overall exhaust in grow tents or rooms, deliv
 **Q: How can Inline, Oscillating, Clip-on, and Centrifugal fans be comprehensively combined for use in retrofitting indoor growing facilities?**
 
 A: A high-performance EC Inline or EC Centrifugal Fan Unit should be used as the primary exhaust fan, responsible for air exchange throughout the entire space. Use one or more Oscillating Fans for canopy circulation to ensure all plants receive gentle airflow. Use Clip-on Fans as a supplement to address local dead zones or provide targeted airflow for specific areas. **Summary: Negative pressure control and odor management: Ensure the exhaust airflow is slightly greater than the intake airflow to maintain a slight negative pressure in the grow space, so that all air is expelled through the activated carbon filter, effectively controlling odors; Filter placement: Install the activated carbon filter on the intake side of the fan to keep the fan clean and reduce noise.
+
+---
+
+_Last updated: 2026-11-02_

@@ -234,3 +234,7 @@ EC motors have built-in electronic drives and can easily connect to 0–10V, Mod
 
 6. Long service life, low maintenance
 No carbon brushes, no belts, no mechanical commutation—long bearing life and extremely low maintenance costs. The backward-curved impeller resists dust accumulation, minimizing performance degradation over long-term operation.
+
+---
+
+_Last updated: 2026-11-02_

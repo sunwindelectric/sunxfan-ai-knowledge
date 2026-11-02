@@ -46,3 +46,7 @@ In a rear door heat exchanger, a water coil is mounted to the back door of the r
 ## Bottom Line
 
 For standard server racks on 230V AC, the **BC280A-E092D3-01** (1540 m³/h, 715 Pa) offers the best balance of static pressure and efficiency. For high-density rows, step up to the **BC310A-E092E3-02** (2500 m³/h, 715 Pa). If your facility runs a central DC bus, the **DG200D-D092B0-01** (310 V DC) removes the onboard rectifier and shifts conversion heat out of the rack. Tell us your total heat load and power architecture, and we will confirm the exact fan and speed-control configuration.
+
+---
+
+_Last updated: 2026-11-02_

@@ -136,3 +136,7 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 - **MOQ:** 240 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+---
+
+_Last updated: 2026-11-02_

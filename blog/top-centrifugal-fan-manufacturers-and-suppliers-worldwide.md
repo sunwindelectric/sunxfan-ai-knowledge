@@ -34,3 +34,7 @@ Founded in Spain, Soler & Palau has grown into a multinational ventilation speci
 ## Conclusion
 
 Selecting the right centrifugal fan supplier depends on specific project requirements, including operating environment, spatial constraints, energy efficiency targets, and regulatory standards. The manufacturers listed above have consistently demonstrated the engineering capability to meet diverse global demands.
+
+---
+
+_Last updated: 2026-11-02_

@@ -70,3 +70,7 @@ For procurement teams standardising a platform across AHU, hood, medical and ven
 ## Next Step
 
 Full performance curves, dimension drawings and PDF spec sheets for every model in the SF146A, SF146D and SF160 series are available on the product pages — or send your airflow, static pressure and control requirements to the SUNXFAN engineering team for a selection proposal within one business day.
+
+---
+
+_Last updated: 2026-11-02_

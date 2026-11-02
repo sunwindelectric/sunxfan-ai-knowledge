@@ -110,3 +110,7 @@ External rotor fans integrate the motor inside the impeller hub, optimizing spac
 3. **Select Standard Industrial Suppliers when:**
 * The application involves general ventilation or non-critical equipment cooling with standard static pressure demands.
 * Budget constraints prioritize low initial unit purchase price for standard catalog configurations.
+
+---
+
+_Last updated: 2026-11-02_

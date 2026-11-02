@@ -82,3 +82,7 @@ For the engineers standing behind a fan, that is a familiar posture. We never ow
 7. Terence Tao, public comments on the shift in the Navier–Stokes regularity consensus, 2026.
 
 About SUNXFAN<sup>®</sup>: SUNXFAN manufactures industrial EC, DC and AC centrifugal and axial fans for HVAC, data-centre and energy-storage thermal management, and clean-air applications, including fan units built for 800V HVDC architectures. We believe sustained attention to the most basic questions in fluid mechanics is what keeps fan systems efficient and reliable over the long run.
+
+---
+
+_Last updated: 2026-11-02_

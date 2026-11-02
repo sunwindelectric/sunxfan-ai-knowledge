@@ -64,3 +64,7 @@ Neither failure mode is cheaper than choosing the right housing at specification
 The range covers both construction routes: molded PA66-GF25 dual-inlet and backward-curved housings for appliance, ERV and AHU duty, and metal-housed units for hotter or heavier duty. Material grades and their test coverage are documented on the [quality and testing page](/en/quality/), including the REACH SVHC screening that applies to the shared raw-material grades.
 
 If the duty point is near a boundary — 70 °C continuous, coastal air, grease exposure — send the operating envelope with the enquiry and the housing will be specified with the margin, not against it.
+
+---
+
+_Last updated: 2026-11-02_

@@ -49,3 +49,7 @@ A core priority for container plant factories is maximizing the usable canopy ar
 | **Space Requirements** | Very Low (Voluteless / Plug Fan design) | High (Requires bulky scroll housing) | Backward-curved fans enable the ultra-compact AHU designs required by container farms. |
 
 In smart agriculture applications like hydroponics and soilless farming, climate control is not just about "moving air"—it is about combating high static pressure, surviving extreme humidity, and maintaining pristine hygiene. By combining deep airflow penetration, fail-safe motor design, and a sanitary self-cleaning structure, the EC backward-curved centrifugal fan directly resolves the most critical HVAC pain points in Controlled Environment Agriculture, making it the definitive choice for the industry.
+
+---
+
+_Last updated: 2026-11-02_

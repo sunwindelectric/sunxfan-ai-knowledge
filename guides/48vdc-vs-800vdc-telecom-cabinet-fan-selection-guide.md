@@ -125,3 +125,7 @@ For R&D engineers designing telecom cabinet air conditioners and outdoor enclosu
 
 
 48VDC external rotor centrifugal fans will remain the irreplaceable cornerstone of telecom cabinet cooling due to their seamless integration with DC power systems, high static pressure, and SELV safety. Meanwhile, 800VDC technology will play an increasingly vital role in long-distance power transmission and centralized high-power conversion equipment.
+
+---
+
+_Last updated: 2026-11-02_

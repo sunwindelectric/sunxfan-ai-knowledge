@@ -56,3 +56,7 @@ This is one more reason arrays are popular in buildings that cannot tolerate dow
 ## Bottom Line
 
 For most AHUs the choice is now straightforward: backward-curved EC double-inlet centrifugal fans, mounted either as a plug fan or as a redundant array, controlled over 0-10V or Modbus RTU. Get the three selection numbers right — airflow, ESP at loaded filters, and mounting envelope — and the fan section will run quietly for years. Browse the [centrifugal fan range](/en/products/centrifugal-fans/) or the [EC fan technology page](/en/technologies/ec-fans/), and tell us your unit's duty point for an exact model proposal.
+
+---
+
+_Last updated: 2026-11-02_

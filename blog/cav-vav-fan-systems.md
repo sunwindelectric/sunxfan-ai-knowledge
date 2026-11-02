@@ -77,3 +77,7 @@ For larger duties, the rest of the [SF146A series](/en/products/series/sf146a/) 
 5. **Can the fan follow the system?** If it can, savings reach the fan; if it cannot, closing terminals only pushes surplus air against the ductwork.
 
 Answer those five and the CAV-versus-VAV argument turns into an engineering calculation rather than a preference. If you need a constant-airflow EC blower for a CAV branch, or a fan-side scheme that follows a central static-pressure setpoint, send your airflow, static pressure, control signal and available space to our engineering team for a selection review.
+
+---
+
+_Last updated: 2026-11-02_

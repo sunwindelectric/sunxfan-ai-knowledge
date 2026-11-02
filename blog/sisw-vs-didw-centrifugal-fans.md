@@ -122,3 +122,7 @@ Explore the full families: the
 across AC, DC and EC motor types. For the fundamentals behind inlet
 configurations, start with our
 [axial vs centrifugal comparison](/en/blog/axial-fan-vs-centrifugal-fan-difference/).
+
+---
+
+_Last updated: 2026-11-02_

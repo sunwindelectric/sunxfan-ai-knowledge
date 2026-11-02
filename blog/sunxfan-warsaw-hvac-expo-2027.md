@@ -19,3 +19,7 @@ SUNXFAN<sup>®</sup> will exhibit at **Warsaw HVAC Expo 2027**, the 5th Internat
 At Hall F1, Booth 40C, SUNXFAN will present its EC/DC external-rotor centrifugal fans, backward-curved centrifugal fans and axial fans for residential fresh-air systems, air purifiers, HRV/ERV units and commercial HVAC equipment.
 
 SUNXFAN invites customers to visit Booth 40C in Hall F1 to view the products and discuss project requirements.
+
+---
+
+_Last updated: 2026-11-02_
