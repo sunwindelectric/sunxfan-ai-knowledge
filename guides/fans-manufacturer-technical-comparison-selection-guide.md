@@ -114,4 +114,4 @@ External rotor fans integrate the motor inside the impeller hub, optimizing spac
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

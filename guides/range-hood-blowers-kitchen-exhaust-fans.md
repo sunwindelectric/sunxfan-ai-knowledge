@@ -42,4 +42,4 @@ For most residential range hoods, the **SF146A-E092A3-02** (230 V AC, 1080 m³/h
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

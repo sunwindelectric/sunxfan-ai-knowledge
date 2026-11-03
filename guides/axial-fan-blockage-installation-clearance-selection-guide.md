@@ -220,4 +220,4 @@ For a unit-by-unit comparison across the family, see the [AS Axial-Fan Integrate
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

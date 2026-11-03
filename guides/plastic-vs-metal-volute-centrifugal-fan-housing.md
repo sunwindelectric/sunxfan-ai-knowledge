@@ -68,4 +68,4 @@ If the duty point is near a boundary — 70 °C continuous, coastal air, grease 
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

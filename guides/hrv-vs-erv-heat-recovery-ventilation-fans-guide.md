@@ -1,6 +1,6 @@
 ---
 title: "HRV vs ERV: A Guide to Heat-Recovery Ventilation Fans"
-description: "What separates a heat-recovery ventilator from an energy-recovery ventilator, which climates each one suits, and why the EC dual-inlet centrifugal fan has become the motor of choice inside both."
+description: "What separates a heat-recovery ventilator from an energy-recovery ventilator, which climates each one suits, how to handle an ERV fan replacement, and why the EC dual-inlet centrifugal fan has become the motor of choice inside both."
 layout: kb
 ---
 
@@ -55,10 +55,18 @@ Decide in this order:
 
 For how these units sit inside a wider ventilation strategy, see the [commercial vs residential fan-system guide](/en/guides/how-to-choose-the-right-fan-system-commercial-vs-residential-ventilation/).
 
+## Replacing an ERV fan or a whole ERV unit
+
+An ERV fan replacement is usually cheaper than an ERV replacement, and it is often the right first move: the exchanger core and the casing outlive the motor, while the fan is the part that wears, gets noisy and loses efficiency. Replace the whole unit only when the core is blocked, the cabinet leaks, or the airflow target has changed beyond what the existing fan can reach.
+
+Before ordering a replacement ERV fan, record four things from the installed unit: the airflow the system actually needs, the static pressure across the fan (measure it, do not copy the nameplate), the supply voltage and the control signal the unit sends. A fan with the same airflow but a different control signal will either run at fixed speed — wasting the part-load saving — or fail to start.
+
+For HRV and ERV ventilation duties the usual replacement is a **double-inlet centrifugal blower with an EC motor**: two inlets keep the airflow high at a modest diameter, and EC control lets the fan follow the pressure sensor instead of running flat out. Where the original fan was an AC drum throttled by a damper, expect both lower noise and lower power at the same airflow once speed control is commissioned.
+
 ## Bottom Line
 
 HRV moves heat, ERV moves heat and moisture — and the climate you build in picks between them. Whichever the cabinet holds, the fan inside is now an EC dual-inlet centrifugal: quiet enough for bedrooms, stable against wind and filters, and cheap to run because it spends its life at low speed. Tell us your unit's airflow and pressure target, and we will match the fan from our [double-inlet centrifugal range](/en/products/double-inlet/).
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

@@ -74,4 +74,4 @@ Full performance curves, dimension drawings and PDF spec sheets for every model 
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

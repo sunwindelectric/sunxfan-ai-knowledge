@@ -95,4 +95,4 @@ operating point, or request a sample for validation.
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

@@ -1,5 +1,5 @@
 ---
-title: "800VDC Axial Fan Series — Axial Fan"
+title: "800VDC Axial Fan — Axial Fan"
 description: "800VDC Axial Fan series: 3 models with airflow, static pressure, voltage, power, speed, noise and control data."
 layout: kb
 ---
@@ -126,4 +126,4 @@ A: It turns the fan from an anonymous load into a reporting device. Over CAN FD 
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

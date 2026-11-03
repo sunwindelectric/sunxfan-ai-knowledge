@@ -2,7 +2,7 @@
 
 This repository is the structured knowledge base for SUNXFAN (Foshan Sunwind Electric Co., Ltd.), a manufacturer of EC, DC and AC axial and centrifugal fans.
 
-Last updated: 2026-11-02
+Last updated: 2026-11-03
 
 ## Routing rules
 
@@ -18,26 +18,26 @@ Last updated: 2026-11-02
 - [AF Axial Fan- Guard — Axial Fan](products/af-axial-fan-guard.html): 5 models.
 - [AG Axial Fan- Flange — Axial Fan](products/ag-axial-fan-flange.html): 3 models.
 - [AS Axial Fan- Guard-Ring — Axial Fan](products/as-axial-fan-guard-ring.html): 4 models.
-- [BC133 — Centrifugal Fan](products/bc133.html): 4 models.
-- [BC175 — Centrifugal Fan](products/bc175.html): 5 models.
-- [BC190 — Centrifugal Fan](products/bc190.html): 6 models.
-- [BC220 — Centrifugal Fan](products/bc220.html): 6 models.
-- [BC225 — Centrifugal Fan](products/bc225.html): 9 models.
-- [BC250 — Centrifugal Fan](products/bc250.html): 7 models.
-- [BC280 — Centrifugal Fan](products/bc280.html): 5 models.
-- [BC310 — Centrifugal Fan](products/bc310.html): 5 models.
-- [DG120 — Centrifugal Fan](products/dg120.html): 8 models.
-- [DG140 — Centrifugal Fan](products/dg140.html): 6 models.
-- [DG160 — Centrifugal Fan](products/dg160.html): 4 models.
-- [DG180 — Centrifugal Fan](products/dg180.html): 4 models.
-- [DG200 — Centrifugal Fan](products/dg200.html): 3 models.
+- [EC Backward-Curved Centrifugal Fan-BC133](products/bc133.html): 4 models.
+- [EC Backward-Curved Centrifugal Fan-BC175](products/bc175.html): 5 models.
+- [EC Backward-Curved Centrifugal Fan-BC190](products/bc190.html): 6 models.
+- [EC Backward-Curved Centrifugal Fan-BC220](products/bc220.html): 6 models.
+- [EC Backward-Curved Centrifugal Fan-BC225](products/bc225.html): 9 models.
+- [EC Backward-Curved Centrifugal Fan-BC250](products/bc250.html): 7 models.
+- [EC Backward-Curved Centrifugal Fan-BC280](products/bc280.html): 5 models.
+- [EC Backward-Curved Centrifugal Fan-BC310](products/bc310.html): 5 models.
+- [EC Forward-curved Single inlet Centrifugal fan-DG120](products/dg120.html): 8 models.
+- [EC Forward-curved Single inlet Centrifugal fan-DG140](products/dg140.html): 6 models.
+- [EC Forward-curved Single inlet Centrifugal fan-DG160](products/dg160.html): 4 models.
+- [EC Forward-curved Single inlet Centrifugal fan-DG180](products/dg180.html): 4 models.
+- [EC Forward-curved Single inlet Centrifugal fan-DG200](products/dg200.html): 3 models.
 - [DUCT-FAN-230VAC — Fan Units](products/duct-fan-230vac.html): 7 models.
-- [SF133A — Centrifugal Fan](products/sf133a.html): 3 models.
-- [SF146A — Centrifugal Fan](products/sf146a.html): 8 models.
-- [SF146C — Centrifugal Fan](products/sf146c.html): 3 models.
-- [SF146D — Centrifugal Fan](products/sf146d.html): 6 models.
-- [SF160 — Centrifugal Fan](products/sf160.html): 4 models.
-- [SF235 — Centrifugal Fan](products/sf235.html): 1 models.
+- [EC Forward-curved Double inlet Centrifugal fan-SF133A](products/sf133a.html): 3 models.
+- [EC Forward-curved Double inlet Centrifugal fan-SF146A](products/sf146a.html): 8 models.
+- [EC Forward-curved Double inlet Centrifugal fan-SF146C](products/sf146c.html): 3 models.
+- [EC Forward-curved Double inlet Centrifugal fan-SF146D](products/sf146d.html): 6 models.
+- [EC Forward-curved Double inlet Centrifugal fan-SF160](products/sf160.html): 4 models.
+- [EC Forward-curved Double inlet Centrifugal fan-SF235](products/sf235.html): 1 models.
 - [UNIT-VENTILATOR — Fan Units](products/unit-ventilator.html): 2 models.
 
 ## Blog
@@ -48,7 +48,7 @@ Last updated: 2026-11-02
 - [EC Double-Inlet Centrifugal Fan: 2026 Launch](blog/ec-double-inlet-centrifugal-fan-manufacturer-2026-new-product.html)
 - [Why Are Rack-Mount Fan Packages More Popular?](blog/why-rack-mount-fan-packages-are-more-popular.html)
 - [SISW vs DIDW Centrifugal Fans: What Is the Difference?](blog/sisw-vs-didw-centrifugal-fans.html)
-- [How Does an Axial Fan Differ from a Centrifugal Fan?](blog/axial-fan-vs-centrifugal-fan-difference.html)
+- [Axial vs Centrifugal Fans — Pressure, Airflow and Use Cases](blog/axial-fan-vs-centrifugal-fan-difference.html)
 - [IE5 PMSM Motors: How Smart EC Fans Cut Energy Use](blog/inside-ie5-pmsm-ec-fan-technology.html)
 - [SUNXFAN 800 VDC EC Axial Fan in ARIDGE-A868 eVTOL](blog/sunxfan-800vdc-ec-axial-fan-aridge-a868.html)
 - [Dual-Inlet vs. Single-Inlet Blowers: Pros & Cons](blog/dual-inlet-vs-single-inlet-centrifugal-blowers.html)
@@ -70,6 +70,7 @@ Last updated: 2026-11-02
 - [Medical & Cleanroom Ventilation Fans](guides/medical-cleanroom-ventilation-fans.html)
 - [Plastic vs Metal Volute: Which Centrifugal Fan Housing to Choose](guides/plastic-vs-metal-volute-centrifugal-fan-housing.html)
 - [Range Hood Extractor Blowers & Kitchen Exhaust Fans](guides/range-hood-blowers-kitchen-exhaust-fans.html)
+- [SFP (Specific Fan Power): How to Calculate It and What Counts as Good](guides/sfp-specific-fan-power.html)
 - [What is the impact of blockage on the performance of an axial fan?](guides/axial-fan-blockage-installation-clearance-selection-guide.html)
 - [Why 800VDC Brushless Fans Are the New Standard](guides/why-800vdc-brushless-fans-are-the-new-standard-for-megawatt-high-voltage-thermal-management.html)
 - [Why Hydroponics Prefer EC Backward-Curved Fans](guides/why-hydroponics-and-plant-factories-prefer-ec-backward-curved-centrifugal-fans-an-in-depth-comparison-with-ec-double-inlet-blowers.html)

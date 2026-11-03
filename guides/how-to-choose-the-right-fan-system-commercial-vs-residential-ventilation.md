@@ -45,4 +45,4 @@ External rotor EC motors provide the ultimate solution. By integrating the motor
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

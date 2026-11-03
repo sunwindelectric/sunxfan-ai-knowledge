@@ -1,5 +1,5 @@
 ---
-title: "DUCT-FAN-230VAC Series — Fan Units"
+title: "DUCT-FAN-230VAC — Fan Units"
 description: "DUCT-FAN-230VAC series: 7 models with airflow, static pressure, voltage, power, speed, noise and control data."
 layout: kb
 ---
@@ -238,4 +238,4 @@ No carbon brushes, no belts, no mechanical commutation—long bearing life and e
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

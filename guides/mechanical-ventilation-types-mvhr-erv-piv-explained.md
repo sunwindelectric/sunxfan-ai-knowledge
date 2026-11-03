@@ -56,4 +56,4 @@ Exhaust-only, supply-only, balanced, MVHR, ERV, PIV — six names, one decision 
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

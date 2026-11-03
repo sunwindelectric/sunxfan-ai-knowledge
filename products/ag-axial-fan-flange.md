@@ -1,5 +1,5 @@
 ---
-title: "AG Axial Fan- Flange Series — Axial Fan"
+title: "AG Axial Fan- Flange — Axial Fan"
 description: "AG Axial Fan- Flange series: 3 models with airflow, static pressure, voltage, power, speed, noise and control data."
 layout: kb
 ---
@@ -106,4 +106,4 @@ A: This one is rated to 300 Pa — a typical ceiling for a well-made axial of th
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

@@ -60,4 +60,4 @@ For most AHUs the choice is now straightforward: backward-curved EC double-inlet
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

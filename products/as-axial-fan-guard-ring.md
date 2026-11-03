@@ -1,5 +1,5 @@
 ---
-title: "AS Axial Fan- Guard-Ring Series — Axial Fan"
+title: "AS Axial Fan- Guard-Ring — Axial Fan"
 description: "AS Axial Fan- Guard-Ring series: 4 models with airflow, static pressure, voltage, power, speed, noise and control data."
 layout: kb
 ---
@@ -145,4 +145,4 @@ A: The EC electronics expose the fan as a Modbus RTU slave: the BMS writes the s
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

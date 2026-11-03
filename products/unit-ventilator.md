@@ -1,5 +1,5 @@
 ---
-title: "UNIT-VENTILATOR Series — Fan Units"
+title: "UNIT-VENTILATOR — Fan Units"
 description: "UNIT-VENTILATOR series: 2 models with airflow, static pressure, voltage, power, speed, noise and control data."
 layout: kb
 ---
@@ -92,4 +92,4 @@ A: A high-performance EC Inline or EC Centrifugal Fan Unit should be used as the
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_

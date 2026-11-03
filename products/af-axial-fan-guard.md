@@ -1,5 +1,5 @@
 ---
-title: "AF Axial Fan- Guard Series — Axial Fan"
+title: "AF Axial Fan- Guard — Axial Fan"
 description: "AF Axial Fan- Guard series: 5 models with airflow, static pressure, voltage, power, speed, noise and control data."
 layout: kb
 ---
@@ -140,4 +140,4 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 
 ---
 
-_Last updated: 2026-11-02_
+_Last updated: 2026-11-03_
