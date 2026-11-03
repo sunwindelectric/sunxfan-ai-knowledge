@@ -8,6 +8,10 @@ layout: kb
 
 SUNXFAN AS Axial Fan- Guard-Ring series: 4 models. All figures below are manufacturer datasheet values.
 
+## Product image
+
+![SUNXFAN AS Axial Fan- Guard-Ring axial fan product photo](https://en.sunxfan.com/images/products/as-axial-fan-guard-ring-axial-fan-product-800.webp)
+
 ## Model matrix
 
 | Model | Airflow | Max static pressure | Voltage | Power | Speed | Noise | Speed control |

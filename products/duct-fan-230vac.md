@@ -8,6 +8,10 @@ layout: kb
 
 SUNXFAN DUCT-FAN-230VAC series: 7 models. All figures below are manufacturer datasheet values.
 
+## Product image
+
+![SUNXFAN DUCT-FAN-230VAC fan units product photo](https://en.sunxfan.com/images/products/duct-fan-230vac-fan-units-product-1600.webp)
+
 ## Model matrix
 
 | Model | Airflow | Max static pressure | Voltage | Power | Speed | Noise | Speed control |

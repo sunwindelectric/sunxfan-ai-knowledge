@@ -8,6 +8,10 @@ layout: kb
 
 SUNXFAN 800VDC Axial Fan series: 3 models. All figures below are manufacturer datasheet values.
 
+## Product image
+
+![SUNXFAN 800VDC Axial Fan axial fan product photo](https://en.sunxfan.com/images/products/800vdc-axial-fan-axial-fan-product-1200.webp)
+
 ## Model matrix
 
 | Model | Airflow | Max static pressure | Voltage | Power | Speed | Noise | Speed control |

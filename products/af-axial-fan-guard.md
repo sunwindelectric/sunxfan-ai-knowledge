@@ -8,6 +8,10 @@ layout: kb
 
 SUNXFAN AF Axial Fan- Guard series: 5 models. All figures below are manufacturer datasheet values.
 
+## Product image
+
+![SUNXFAN AF Axial Fan- Guard axial fan product photo](https://en.sunxfan.com/images/products/af-axial-fan-guard-axial-fan-product-800.webp)
+
 ## Model matrix
 
 | Model | Airflow | Max static pressure | Voltage | Power | Speed | Noise | Speed control |

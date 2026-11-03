@@ -8,6 +8,10 @@ layout: kb
 
 SUNXFAN AG Axial Fan- Flange series: 3 models. All figures below are manufacturer datasheet values.
 
+## Product image
+
+![SUNXFAN AG Axial Fan- Flange axial fan product photo](https://en.sunxfan.com/images/products/ag-axial-fan-flange-axial-fan-product-500.webp)
+
 ## Model matrix
 
 | Model | Airflow | Max static pressure | Voltage | Power | Speed | Noise | Speed control |

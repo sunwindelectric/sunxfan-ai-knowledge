@@ -8,6 +8,10 @@ layout: kb
 
 SUNXFAN UNIT-VENTILATOR series: 2 models. All figures below are manufacturer datasheet values.
 
+## Product image
+
+![SUNXFAN UNIT-VENTILATOR fan units product photo](https://en.sunxfan.com/images/products/unit-ventilator-fan-units-product-800.webp)
+
 ## Model matrix
 
 | Model | Airflow | Max static pressure | Voltage | Power | Speed | Noise | Speed control |
