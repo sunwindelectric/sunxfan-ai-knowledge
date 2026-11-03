@@ -10,7 +10,10 @@ SUNXFAN AS Axial Fan- Guard-Ring series: 4 models. All figures below are manufac
 
 ## Product image
 
-![SUNXFAN AS Axial Fan- Guard-Ring axial fan product photo](https://en.sunxfan.com/images/products/as-axial-fan-guard-ring-axial-fan-product-800.webp)
+<a class="kb-figure" href="https://en.sunxfan.com/images/products/as-axial-fan-guard-ring-axial-fan-product-800-wm.webp" target="_blank" rel="noopener" title="Open the full-size image">
+  <img src="https://en.sunxfan.com/images/series/as-axial-fan-guard-ring-axial-fan-series-thumb.webp" alt="SUNXFAN AS Axial Fan- Guard-Ring axial fan product photo" loading="lazy" width="300">
+  <span class="kb-wm">SUNXFAN<sup>®</sup></span>
+</a>
 
 ## Model matrix
 

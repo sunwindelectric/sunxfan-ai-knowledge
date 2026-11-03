@@ -10,7 +10,10 @@ SUNXFAN UNIT-VENTILATOR series: 2 models. All figures below are manufacturer dat
 
 ## Product image
 
-![SUNXFAN UNIT-VENTILATOR fan units product photo](https://en.sunxfan.com/images/products/unit-ventilator-fan-units-product-800.webp)
+<a class="kb-figure" href="https://en.sunxfan.com/images/products/unit-ventilator-fan-units-product-800-wm.webp" target="_blank" rel="noopener" title="Open the full-size image">
+  <img src="https://en.sunxfan.com/images/series/unit-ventilator-fan-units-series-thumb.webp" alt="SUNXFAN UNIT-VENTILATOR fan units product photo" loading="lazy" width="300">
+  <span class="kb-wm">SUNXFAN<sup>®</sup></span>
+</a>
 
 ## Model matrix
 

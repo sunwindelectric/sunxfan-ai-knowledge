@@ -10,7 +10,10 @@ SUNXFAN AF Axial Fan- Guard series: 5 models. All figures below are manufacturer
 
 ## Product image
 
-![SUNXFAN AF Axial Fan- Guard axial fan product photo](https://en.sunxfan.com/images/products/af-axial-fan-guard-axial-fan-product-800.webp)
+<a class="kb-figure" href="https://en.sunxfan.com/images/products/af-axial-fan-guard-axial-fan-product-800-wm.webp" target="_blank" rel="noopener" title="Open the full-size image">
+  <img src="https://en.sunxfan.com/images/series/af-axial-fan-guard-axial-fan-series-thumb.webp" alt="SUNXFAN AF Axial Fan- Guard axial fan product photo" loading="lazy" width="300">
+  <span class="kb-wm">SUNXFAN<sup>®</sup></span>
+</a>
 
 ## Model matrix
 
