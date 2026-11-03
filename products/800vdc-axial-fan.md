@@ -11,7 +11,7 @@ SUNXFAN 800VDC Axial Fan series: 3 models. All figures below are manufacturer da
 ## Product image
 
 <a class="kb-figure" href="https://en.sunxfan.com/images/products/800vdc-axial-fan-axial-fan-product-1200-wm.webp" target="_blank" rel="noopener" title="Open the full-size image">
-  <img src="https://en.sunxfan.com/images/series/800vdc-axial-fan-axial-fan-series-thumb.webp" alt="SUNXFAN 800VDC Axial Fan axial fan product photo" loading="lazy" width="300">
+  <img src="https://en.sunxfan.com/images/series/800vdc-axial-fan-axial-fan-series-thumb.webp" alt="SUNXFAN 800VDC Axial Fan axial fan product photo" loading="lazy" width="300" onerror="this.onerror=null;this.src='{{ '/assets/images/product-fallback-thumb.jpg' | relative_url }}';this.parentNode.href='{{ '/assets/images/product-fallback.jpg' | relative_url }}'">
   <span class="kb-wm">SUNXFAN<sup>®</sup></span>
 </a>
 

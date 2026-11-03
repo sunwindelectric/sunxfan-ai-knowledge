@@ -11,7 +11,7 @@ SUNXFAN DUCT-FAN-230VAC series: 7 models. All figures below are manufacturer dat
 ## Product image
 
 <a class="kb-figure" href="https://en.sunxfan.com/images/products/duct-fan-230vac-fan-units-product-1600-wm.webp" target="_blank" rel="noopener" title="Open the full-size image">
-  <img src="https://en.sunxfan.com/images/series/duct-fan-230vac-fan-units-series-thumb.webp" alt="SUNXFAN DUCT-FAN-230VAC fan units product photo" loading="lazy" width="300">
+  <img src="https://en.sunxfan.com/images/series/duct-fan-230vac-fan-units-series-thumb.webp" alt="SUNXFAN DUCT-FAN-230VAC fan units product photo" loading="lazy" width="300" onerror="this.onerror=null;this.src='{{ '/assets/images/product-fallback-thumb.jpg' | relative_url }}';this.parentNode.href='{{ '/assets/images/product-fallback.jpg' | relative_url }}'">
   <span class="kb-wm">SUNXFAN<sup>®</sup></span>
 </a>
 
