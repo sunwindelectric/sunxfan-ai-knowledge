@@ -52,8 +52,10 @@ For ventilation-equipment manufacturers, these system types differ above the fan
 
 ## Bottom Line
 
-Exhaust-only, supply-only, balanced, MVHR, ERV, PIV — six names, one decision tree: how airtight is the building, what does the climate demand, and how much of the structure can the project touch. Whichever branch the project takes, the fan inside decides the noise, the energy bill and the service life. For a component discussion around your unit, see our [EC fan technology page](/en/technologies/ec-fans/) or the [double-inlet centrifugal range](/en/products/double-inlet/).
+Exhaust-only, supply-only, balanced, MVHR, ERV, PIV — six names, one decision tree: how airtight is the building, what does the climate demand, and how much of the structure can the project touch. Whichever branch the project takes, the fan inside decides the noise, the energy bill and the service life. For a component discussion around your unit, see our [EC fan technology page](https://en.sunxfan.com/en/technologies/ec-fans/) or the [double-inlet centrifugal range](https://en.sunxfan.com/en/products/double-inlet/).
 
 ---
+
+Source: [https://en.sunxfan.com/en/guides/mechanical-ventilation-types-mvhr-erv-piv-explained/](https://en.sunxfan.com/en/guides/mechanical-ventilation-types-mvhr-erv-piv-explained/)
 
 _Last updated: 2026-11-03_

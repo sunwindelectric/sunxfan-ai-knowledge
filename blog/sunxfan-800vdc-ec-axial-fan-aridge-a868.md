@@ -69,4 +69,6 @@ requirements.
 
 ---
 
+Source: [https://en.sunxfan.com/en/blog/sunxfan-800vdc-ec-axial-fan-aridge-a868/](https://en.sunxfan.com/en/blog/sunxfan-800vdc-ec-axial-fan-aridge-a868/)
+
 _Last updated: 2026-11-03_

@@ -140,4 +140,6 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 
 ---
 
+Source: [https://en.sunxfan.com/en/products/series/af-axial-fan-guard/](https://en.sunxfan.com/en/products/series/af-axial-fan-guard/)
+
 _Last updated: 2026-11-03_

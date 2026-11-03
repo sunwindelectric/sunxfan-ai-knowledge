@@ -55,7 +55,7 @@ integrated speed control, runs on wide voltage ranges and reports telemetry in
 advanced versions. For high-voltage applications such as megawatt charging or
 energy-storage systems, dedicated 800VDC axial fans eliminate the DC-DC
 conversion stage entirely — see our
-[800VDC EC axial fan project](/en/blog/sunxfan-800vdc-ec-axial-fan-aridge-a868/)
+[800VDC EC axial fan project](https://en.sunxfan.com/en/blog/sunxfan-800vdc-ec-axial-fan-aridge-a868/)
 for a real deployment.
 
 ## Centrifugal Fans: Pressure, Focus and Duct Resistance
@@ -75,7 +75,7 @@ Typical centrifugal fan characteristics:
 - Two intake configurations: **single-inlet** (focused, compact) and
   **dual-inlet** (balanced airflow for larger duct networks) — the trade-offs
   are compared in our
-  [single-inlet vs dual-inlet guide](/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/).
+  [single-inlet vs dual-inlet guide](https://en.sunxfan.com/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/).
 - Common uses: **HVAC** air handling, cleanroom and laboratory ventilation,
   kitchen exhaust, industrial process equipment, energy-storage cabinet
   cooling and anywhere filtration is present.
@@ -108,7 +108,7 @@ Both fan families share the same motor technology ladder:
   control via PWM/0-10V/analog input, and lower motor temperature rise. EC is
   now the default recommendation for new industrial designs, and it is the
   technology focus of our
-  [IE5 PMSM EC fan deep-dive](/en/blog/inside-ie5-pmsm-ec-fan-technology/).
+  [IE5 PMSM EC fan deep-dive](https://en.sunxfan.com/en/blog/inside-ie5-pmsm-ec-fan-technology/).
 
 Because SUNXFAN manufactures all three motor types on both fan families, you
 can keep the same mounting envelope and airflow duty while migrating from AC
@@ -137,21 +137,23 @@ across AC, DC and EC external rotor motors, with OEM/ODM customization of
 impellers, housings, connectors and control interfaces.
 
 - Need high airflow at low pressure? Explore the
-  [AG axial fan series](/en/products/series/ag-axial-fan-flange/)
+  [AG axial fan series](https://en.sunxfan.com/en/products/series/ag-axial-fan-flange/)
   (flange-mounted EC·DC·AC axial fans) or the compact
-  [230VAC duct fan series](/en/products/series/duct-fan-230vac/)
+  [230VAC duct fan series](https://en.sunxfan.com/en/products/series/duct-fan-230vac/)
   for inline installations.
 - Need pressure for ducted or filtered systems? The
-  [BC225 centrifugal fan series](/en/products/series/bc225/) covers AC, DC and
+  [BC225 centrifugal fan series](https://en.sunxfan.com/en/products/series/bc225/) covers AC, DC and
   EC motor options in one envelope, and our product catalog includes
   single-inlet DG series and dual-inlet SF series backward-curved blowers for
   higher static-pressure duties.
 
-Browse the full [product catalog](/en/products/) or contact our engineering
+Browse the full [product catalog](https://en.sunxfan.com/en/products/) or contact our engineering
 team for a selection review — share your airflow (m³/h), required static
 pressure (Pa) and available space, and we will recommend the shortest path to
 a validated fan solution.
 
 ---
+
+Source: [https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/](https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/)
 
 _Last updated: 2026-11-03_

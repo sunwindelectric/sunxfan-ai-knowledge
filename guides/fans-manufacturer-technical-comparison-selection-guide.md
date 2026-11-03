@@ -114,4 +114,6 @@ External rotor fans integrate the motor inside the impeller hub, optimizing spac
 
 ---
 
+Source: [https://en.sunxfan.com/en/guides/fans-manufacturer-technical-comparison-selection-guide/](https://en.sunxfan.com/en/guides/fans-manufacturer-technical-comparison-selection-guide/)
+
 _Last updated: 2026-11-03_

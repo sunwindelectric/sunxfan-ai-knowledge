@@ -50,4 +50,6 @@ For standard server racks on 230V AC, the **BC280A-E092D3-01** (1540 m³/h, 715 
 
 ---
 
+Source: [https://en.sunxfan.com/en/guides/data-center-cooling-fans-ec-centrifugal-blowers/](https://en.sunxfan.com/en/guides/data-center-cooling-fans-ec-centrifugal-blowers/)
+
 _Last updated: 2026-11-03_

@@ -53,7 +53,7 @@ Decide in this order:
 3. **Size for continuous low-speed running.** Pick the airflow for everyday occupancy, not for boost; the fan should spend its life in the efficient lower third of its curve.
 4. **Inspect the fan specification, not only the exchanger.** Noise level, speed control and EC motor efficiency decide daily satisfaction.
 
-For how these units sit inside a wider ventilation strategy, see the [commercial vs residential fan-system guide](/en/guides/how-to-choose-the-right-fan-system-commercial-vs-residential-ventilation/).
+For how these units sit inside a wider ventilation strategy, see the [commercial vs residential fan-system guide](https://en.sunxfan.com/en/guides/how-to-choose-the-right-fan-system-commercial-vs-residential-ventilation/).
 
 ## Replacing an ERV fan or a whole ERV unit
 
@@ -65,8 +65,10 @@ For HRV and ERV ventilation duties the usual replacement is a **double-inlet cen
 
 ## Bottom Line
 
-HRV moves heat, ERV moves heat and moisture — and the climate you build in picks between them. Whichever the cabinet holds, the fan inside is now an EC dual-inlet centrifugal: quiet enough for bedrooms, stable against wind and filters, and cheap to run because it spends its life at low speed. Tell us your unit's airflow and pressure target, and we will match the fan from our [double-inlet centrifugal range](/en/products/double-inlet/).
+HRV moves heat, ERV moves heat and moisture — and the climate you build in picks between them. Whichever the cabinet holds, the fan inside is now an EC dual-inlet centrifugal: quiet enough for bedrooms, stable against wind and filters, and cheap to run because it spends its life at low speed. Tell us your unit's airflow and pressure target, and we will match the fan from our [double-inlet centrifugal range](https://en.sunxfan.com/en/products/double-inlet/).
 
 ---
+
+Source: [https://en.sunxfan.com/en/guides/hrv-vs-erv-heat-recovery-ventilation-fans-guide/](https://en.sunxfan.com/en/guides/hrv-vs-erv-heat-recovery-ventilation-fans-guide/)
 
 _Last updated: 2026-11-03_

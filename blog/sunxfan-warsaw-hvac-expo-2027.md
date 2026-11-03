@@ -23,4 +23,6 @@ SUNXFAN invites customers to visit Booth 40C in Hall F1 to view the products and
 
 ---
 
+Source: [https://en.sunxfan.com/en/blog/sunxfan-warsaw-hvac-expo-2027/](https://en.sunxfan.com/en/blog/sunxfan-warsaw-hvac-expo-2027/)
+
 _Last updated: 2026-11-03_

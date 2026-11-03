@@ -45,4 +45,6 @@ For most lab and medical equipment, the **SF146A-E092A3-02** (230 V AC, 1080 m³
 
 ---
 
+Source: [https://en.sunxfan.com/en/guides/medical-cleanroom-ventilation-fans/](https://en.sunxfan.com/en/guides/medical-cleanroom-ventilation-fans/)
+
 _Last updated: 2026-11-03_

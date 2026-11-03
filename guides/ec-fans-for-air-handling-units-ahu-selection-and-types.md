@@ -21,7 +21,7 @@ Both layouts rely on the same component: a backward-curved double-inlet centrifu
 
 An AHU fan must push air through filters, coils, attenuators and the duct network — that is external static pressure, not just bulk airflow. Backward-curved double-inlet centrifugal impellers generate this pressure efficiently, and the double-inlet design splits the flow across two suction faces, so the same airflow is delivered by a wheel with a shorter axial length and balanced suction on both sides.
 
-The EC part matters just as much. An EC (electronically commutated) motor is a permanent-magnet machine with integrated power electronics: no belts and pulleys to align, no separate variable-frequency drive cabinet, and precise speed control built into the fan itself. For a refresher on the motor economics, see the [EC vs AC comparison](/en/guides/ec-vs-ac-fans-which-saves-more-energy/).
+The EC part matters just as much. An EC (electronically commutated) motor is a permanent-magnet machine with integrated power electronics: no belts and pulleys to align, no separate variable-frequency drive cabinet, and precise speed control built into the fan itself. For a refresher on the motor economics, see the [EC vs AC comparison](https://en.sunxfan.com/en/guides/ec-vs-ac-fans-which-saves-more-energy/).
 
 ## Partial load: why speed control pays off
 
@@ -42,7 +42,7 @@ That return channel is what makes demand-controlled ventilation practical: the u
 2. **External static pressure (ESP).** The total resistance downstream and upstream of the unit: filters (at loaded condition, not clean), coils, attenuators, dampers and ductwork. A fan selected on clean-filter ESP alone will fall short in its first season.
 3. **Mounting envelope.** The width, depth and weight the fan section can accept, plus the electrical connection and any clearances for service. In a fan array, the individual module size decides how many fans fit the panel.
 
-For a deeper walk-through of fan sizing in general, see the [centrifugal fan selection guide](/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/).
+For a deeper walk-through of fan sizing in general, see the [centrifugal fan selection guide](https://en.sunxfan.com/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/).
 
 ## Serviceability: access doors, slide rails and swap-outs
 
@@ -56,8 +56,10 @@ This is one more reason arrays are popular in buildings that cannot tolerate dow
 
 ## Bottom Line
 
-For most AHUs the choice is now straightforward: backward-curved EC double-inlet centrifugal fans, mounted either as a plug fan or as a redundant array, controlled over 0-10V or Modbus RTU. Get the three selection numbers right — airflow, ESP at loaded filters, and mounting envelope — and the fan section will run quietly for years. Browse the [centrifugal fan range](/en/products/centrifugal-fans/) or the [EC fan technology page](/en/technologies/ec-fans/), and tell us your unit's duty point for an exact model proposal.
+For most AHUs the choice is now straightforward: backward-curved EC double-inlet centrifugal fans, mounted either as a plug fan or as a redundant array, controlled over 0-10V or Modbus RTU. Get the three selection numbers right — airflow, ESP at loaded filters, and mounting envelope — and the fan section will run quietly for years. Browse the [centrifugal fan range](https://en.sunxfan.com/en/products/centrifugal-fans/) or the [EC fan technology page](https://en.sunxfan.com/en/technologies/ec-fans/), and tell us your unit's duty point for an exact model proposal.
 
 ---
+
+Source: [https://en.sunxfan.com/en/guides/ec-fans-for-air-handling-units-ahu-selection-and-types/](https://en.sunxfan.com/en/guides/ec-fans-for-air-handling-units-ahu-selection-and-types/)
 
 _Last updated: 2026-11-03_

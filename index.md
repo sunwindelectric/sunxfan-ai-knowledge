@@ -77,4 +77,6 @@ Structured Markdown knowledge base for AI engines and agents. Start with [agent_
 
 ---
 
+Source: [https://en.sunxfan.com/en/](https://en.sunxfan.com/en/)
+
 _Last updated: 2026-11-03_

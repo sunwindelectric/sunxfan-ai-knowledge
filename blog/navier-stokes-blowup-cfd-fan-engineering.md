@@ -12,7 +12,7 @@ For more than two decades, one question has been hanging over that floor: in thr
 
 In 2026 that question genuinely turned. Not because it was solved, but because the mathematical community began to take seriously a possibility it had long resisted: that blow-up may be the intrinsic behaviour of a fluid under extreme conditions, and that smoothness is the case requiring extra explanation.
 
-![Figure 1: vorticity evolution in the generalised axisymmetric setting, where peak vorticity grows sharply in finite time.](/images/blog/navier-stokes-blowup/fig-1-vorticity.png)
+![Figure 1: vorticity evolution in the generalised axisymmetric setting, where peak vorticity grows sharply in finite time.](https://en.sunxfan.com/images/blog/navier-stokes-blowup/fig-1-vorticity.png)
 
 *Figure 1 — Vorticity evolution for the 3D Navier–Stokes equations in a generalised axisymmetric setting. Peak vorticity grows sharply in finite time and the integrated vorticity violates the Beale–Kato–Majda criterion, which is exactly the numerical signature a finite-time singularity would leave. Original figure: reference 1 (Hou, J. FoCM 2026, Fig. 15/16).*
 
@@ -38,7 +38,7 @@ The reason Navier–Stokes can run away is a geometric mechanism that 3D flow ca
 
 Caltech's numerics show the consequence plainly: in the generalised axisymmetric equations, peak vorticity grows as O(1/(T−t)) in finite time and the integrated vorticity violates the Beale–Kato–Majda criterion, marking the formation of a finite-time singularity. Viscosity plays a counter-intuitive role here. Because viscous regularisation makes the solution smoother and more stable, it can actually reinforce the nonlinear alignment that drives vortex stretching rather than damp it.
 
-![Figure 2: schematic of vortex-tube stretching, alignment and sheet-like collapse.](/images/blog/navier-stokes-blowup/fig-2-vortex-stretching.png)
+![Figure 2: schematic of vortex-tube stretching, alignment and sheet-like collapse.](https://en.sunxfan.com/images/blog/navier-stokes-blowup/fig-2-vortex-stretching.png)
 
 *Figure 2 — Schematic of vortex-tube stretching. As a tube is stretched axially and compressed radially, vorticity tends to align with the intermediate eigenvector of the strain-rate tensor, and the tube eventually kinks and collapses into sheets. This is the geometry of the stretching term itself. Original figure: reference 2 (Ruhr-Universität Bochum, Fig. 2.3); redrawn here for clarity.*
 
@@ -50,7 +50,7 @@ The opposite is true. Blow-up is a statement about a continuum model at infinite
 
 A 2025 large-eddy simulation of electronics-cooling axial fans makes that “engineering non-smoothness” visible. At normal back pressures (0 and 6 mmH₂O) the suction-side flow stays attached, paired inlet vortex tubes appear with good coherence, and tip-leakage vortices are clearly defined. At 12 mmH₂O a separation zone appears at the leading edge and the separated vortex spirals out toward the tip. At the 18 mmH₂O stall condition the inlet vortex tubes disappear entirely, replaced by chaotic, diffused large-scale turbulence, while the suction-side separation zone spreads to roughly 80% of blade height and 20% of chord. No singularity appears anywhere in this picture — but a fact does: turbulence closures hold up in attached flow and lose credibility in wide separation and stall.
 
-![Figure 3: flow structure of an axial fan at normal and stall conditions.](/images/blog/navier-stokes-blowup/fig-3-axial-fan-stall.png)
+![Figure 3: flow structure of an axial fan at normal and stall conditions.](https://en.sunxfan.com/images/blog/navier-stokes-blowup/fig-3-axial-fan-stall.png)
 
 *Figure 3 — Axial fan flow structure, normal versus stall. Attached suction-side flow with coherent inlet vortex tubes and defined tip-leakage vortices on the left; on the right, the inlet tubes are gone, large-scale turbulence dominates and the separation zone spreads across the blade. This is the non-smooth reality engineering CFD handles every day, and it marks the validity boundary of the closure. Original figures: reference 3 (Applied Acoustics 2025, Fig. 15–18); schematic redrawn here.*
 
@@ -60,7 +60,7 @@ One easily underestimated fact about the fan industry: every point of aerodynami
 
 Whether an EC centrifugal fan holds its high-efficiency island at part load depends on whether secondary flow and separation vortices inside the impeller stay within the intended envelope. A CFD study of a forward-curved multi-blade centrifugal fan found a large recirculation zone in the bend at the impeller inlet, pronounced separation triggered at the blade leading edge, and jet–wake interaction between the volute tongue and the impeller wake — a major source of flow unsteadiness and discrete noise. A separate internal-flow study of multi-blade centrifugal fans likewise observed recirculation and large eddies inside the blade passages even at the best-efficiency point. None of this is a mathematical singularity, but all of it is the same Navier–Stokes equation expressed at engineering scale.
 
-![Figure 4: streamlines and velocity field inside a centrifugal fan impeller.](/images/blog/navier-stokes-blowup/fig-4-centrifugal-impeller.png)
+![Figure 4: streamlines and velocity field inside a centrifugal fan impeller.](https://en.sunxfan.com/images/blog/navier-stokes-blowup/fig-4-centrifugal-impeller.png)
 
 *Figure 4 — Streamlines and velocity field inside a centrifugal impeller. Inlet recirculation, leading-edge separation and jet–wake interference near the volute tongue are the core sources of efficiency loss and discrete noise. No singularity is involved, yet this is the Navier–Stokes equation at engineering scale. Original figures: reference 4 (TU Darmstadt, Fig. 9/12); schematic redrawn here.*
 
@@ -85,5 +85,7 @@ For the engineers standing behind a fan, that is a familiar posture. We never ow
 About SUNXFAN<sup>®</sup>: SUNXFAN manufactures industrial EC, DC and AC centrifugal and axial fans for HVAC, data-centre and energy-storage thermal management, and clean-air applications, including fan units built for 800V HVDC architectures. We believe sustained attention to the most basic questions in fluid mechanics is what keeps fan systems efficient and reliable over the long run.
 
 ---
+
+Source: [https://en.sunxfan.com/en/blog/navier-stokes-blowup-cfd-fan-engineering/](https://en.sunxfan.com/en/blog/navier-stokes-blowup-cfd-fan-engineering/)
 
 _Last updated: 2026-11-03_

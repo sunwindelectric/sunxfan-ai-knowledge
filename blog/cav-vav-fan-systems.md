@@ -65,9 +65,9 @@ Most real buildings are neither pure CAV nor pure VAV; they contain both kinds o
 2. **Let swing zones run VAV.** Office, meeting and retail terminals modulate on sensor demand and report that demand upstream.
 3. **Close the loop at the fan.** A central static-pressure controller sums terminal demand into a pressure setpoint and trims EC fan speed through 0-10V or PWM. When demand falls, the fan slows with it instead of running flat out against closing dampers.
 
-At that point the fan stops being a fixed-speed air source and becomes the actuator that delivers the energy saving. The [SF146A-E092A3-CA constant-airflow EC double-inlet centrifugal blower](/en/products/sf146a-e092a3-ca/) is built for exactly this duty: 600 m³/h, up to 480 Pa, 180 W input at 230 V AC, 1200 r/min, 52±1 dB(A), IP42, a PA6+GF25% impeller on NSK ball bearings, rated −25 °C to +50 °C. Its four measured duty curves correspond to PWM 100/65/40/20% (Vsp 10.0/6.5/4.0/2.0 V), giving four design airflows — 600, 450, 300 and 180 m³/h — and it holds that airflow as system resistance climbs from roughly 100 Pa to 300 Pa without re-trimming the ductwork.
+At that point the fan stops being a fixed-speed air source and becomes the actuator that delivers the energy saving. The [SF146A-E092A3-CA constant-airflow EC double-inlet centrifugal blower](https://en.sunxfan.com/en/products/sf146a-e092a3-ca/) is built for exactly this duty: 600 m³/h, up to 480 Pa, 180 W input at 230 V AC, 1200 r/min, 52±1 dB(A), IP42, a PA6+GF25% impeller on NSK ball bearings, rated −25 °C to +50 °C. Its four measured duty curves correspond to PWM 100/65/40/20% (Vsp 10.0/6.5/4.0/2.0 V), giving four design airflows — 600, 450, 300 and 180 m³/h — and it holds that airflow as system resistance climbs from roughly 100 Pa to 300 Pa without re-trimming the ductwork.
 
-For larger duties, the rest of the [SF146A series](/en/products/series/sf146a/) and the higher-pressure [SF160 series](/en/products/series/sf160/) — up to 705 Pa — offer the same 0-10V/PWM control for central static-pressure integration. For the efficiency argument behind EC motors at part load, see the [IE5 PMSM EC fan technology breakdown](/en/blog/inside-ie5-pmsm-ec-fan-technology/); for inlet configuration trade-offs, see [dual-inlet vs single-inlet centrifugal blowers](/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/).
+For larger duties, the rest of the [SF146A series](https://en.sunxfan.com/en/products/series/sf146a/) and the higher-pressure [SF160 series](https://en.sunxfan.com/en/products/series/sf160/) — up to 705 Pa — offer the same 0-10V/PWM control for central static-pressure integration. For the efficiency argument behind EC motors at part load, see the [IE5 PMSM EC fan technology breakdown](https://en.sunxfan.com/en/blog/inside-ie5-pmsm-ec-fan-technology/); for inlet configuration trade-offs, see [dual-inlet vs single-inlet centrifugal blowers](https://en.sunxfan.com/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/).
 
 ## Specification Checklist: Five Questions
 
@@ -80,5 +80,7 @@ For larger duties, the rest of the [SF146A series](/en/products/series/sf146a/) 
 Answer those five and the CAV-versus-VAV argument turns into an engineering calculation rather than a preference. If you need a constant-airflow EC blower for a CAV branch, or a fan-side scheme that follows a central static-pressure setpoint, send your airflow, static pressure, control signal and available space to our engineering team for a selection review.
 
 ---
+
+Source: [https://en.sunxfan.com/en/blog/cav-vav-fan-systems/](https://en.sunxfan.com/en/blog/cav-vav-fan-systems/)
 
 _Last updated: 2026-11-03_

@@ -34,7 +34,7 @@ Shipbuilding asks one machine to serve complex, changing ventilation needs while
 - **Shorter and balanced.** Splitting the flow across two inlets means the same airflow is delivered by a blower with a shorter axial length and balanced suction on both sides — precisely what a cramped machinery space wants.
 - **Simple to maintain.** The structure is compact with tightly connected parts, so inspection and replacement are straightforward, cutting operating and maintenance cost over the ship's life.
 
-For a closer look at the same dual-inlet principle in another demanding application, see the [EC double-inlet blower comparison guide](/en/guides/why-hydroponics-and-plant-factories-prefer-ec-backward-curved-centrifugal-fans-an-in-depth-comparison-with-ec-double-inlet-blowers/).
+For a closer look at the same dual-inlet principle in another demanding application, see the [EC double-inlet blower comparison guide](https://en.sunxfan.com/en/guides/why-hydroponics-and-plant-factories-prefer-ec-backward-curved-centrifugal-fans-an-in-depth-comparison-with-ec-double-inlet-blowers/).
 
 ## Inside the blower: the airflow path and the motor
 
@@ -52,7 +52,7 @@ Work through the duty in this order:
 4. **Envelope.** Machinery spaces are measured in centimetres. The dual-inlet layout buys back axial length — check it against the available opening and service clearance.
 5. **Environment.** Salt, humidity and ambient temperature define the materials, protection class and motor specification.
 
-The general method is the same as on land: see the [centrifugal fan selection guide](/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/) for the full walkthrough.
+The general method is the same as on land: see the [centrifugal fan selection guide](https://en.sunxfan.com/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/) for the full walkthrough.
 
 ## Installation and service on board
 
@@ -60,8 +60,10 @@ Fit the blower so the two inlets stay unobstructed — a starved inlet destroys 
 
 ## Bottom Line
 
-Marine ventilation duties are varied, but the physics never changes: move air through resistance, quietly, in a tight space, for decades. The dual-inlet centrifugal blower — two inlets, one discharge, balanced suction, shorter body — does it best, and the EC outer-rotor motor makes it quieter and controllable on top. Tell us the compartment volume, the duct run and the noise limit, and we will match the blower from our [dual-inlet centrifugal range](/en/products/double-inlet/).
+Marine ventilation duties are varied, but the physics never changes: move air through resistance, quietly, in a tight space, for decades. The dual-inlet centrifugal blower — two inlets, one discharge, balanced suction, shorter body — does it best, and the EC outer-rotor motor makes it quieter and controllable on top. Tell us the compartment volume, the duct run and the noise limit, and we will match the blower from our [dual-inlet centrifugal range](https://en.sunxfan.com/en/products/double-inlet/).
 
 ---
+
+Source: [https://en.sunxfan.com/en/guides/marine-blower-selection-guide/](https://en.sunxfan.com/en/guides/marine-blower-selection-guide/)
 
 _Last updated: 2026-11-03_

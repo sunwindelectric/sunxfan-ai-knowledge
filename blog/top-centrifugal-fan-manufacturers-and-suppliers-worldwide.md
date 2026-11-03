@@ -22,7 +22,7 @@ Systemair is a leading ventilation company operating globally with roots in Swed
 
 ### 4. SUNXFAN<sup>®</sup>
 
-[SUNXFAN](/en/products/) is a global supplier offering a range of centrifugal fan solutions tailored for various commercial and industrial applications. The company focuses on manufacturing reliable, performance-oriented fans designed to meet specific airflow and static pressure requirements. Their product lines are utilized across different sectors requiring stable and continuous ventilation.
+[SUNXFAN](https://en.sunxfan.com/en/products/) is a global supplier offering a range of centrifugal fan solutions tailored for various commercial and industrial applications. The company focuses on manufacturing reliable, performance-oriented fans designed to meet specific airflow and static pressure requirements. Their product lines are utilized across different sectors requiring stable and continuous ventilation.
 
 ### 5. Twin City Fan & Blower (USA)
 
@@ -37,5 +37,7 @@ Founded in Spain, Soler & Palau has grown into a multinational ventilation speci
 Selecting the right centrifugal fan supplier depends on specific project requirements, including operating environment, spatial constraints, energy efficiency targets, and regulatory standards. The manufacturers listed above have consistently demonstrated the engineering capability to meet diverse global demands.
 
 ---
+
+Source: [https://en.sunxfan.com/en/blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide/](https://en.sunxfan.com/en/blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide/)
 
 _Last updated: 2026-11-03_

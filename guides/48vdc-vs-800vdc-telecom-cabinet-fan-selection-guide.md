@@ -129,4 +129,6 @@ For R&D engineers designing telecom cabinet air conditioners and outdoor enclosu
 
 ---
 
+Source: [https://en.sunxfan.com/en/guides/48vdc-vs-800vdc-telecom-cabinet-fan-selection-guide/](https://en.sunxfan.com/en/guides/48vdc-vs-800vdc-telecom-cabinet-fan-selection-guide/)
+
 _Last updated: 2026-11-03_

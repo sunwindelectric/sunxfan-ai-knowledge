@@ -59,8 +59,8 @@ inlet architecture.
 | Temperature range | -25 °C ~ +60 °C | -25 °C ~ +50 °C |
 
 View the full datasheets:
-[SF146C-E092B3-01](/en/products/sf146c-e092b3-01/) ·
-[DG200D-E092E3-01](/en/products/dg200d-e092e3-01/)
+[SF146C-E092B3-01](https://en.sunxfan.com/en/products/sf146c-e092b3-01/) ·
+[DG200D-E092E3-01](https://en.sunxfan.com/en/products/dg200d-e092e3-01/)
 
 ## Why the DIDW Fan Reaches 705 Pa
 
@@ -76,7 +76,7 @@ That is why double-inlet double-width fans dominate **air handling units
 (AHU), fan coil units, FFU cleanroom modules and data center CRAC systems**,
 where the scroll's front discharge aligns naturally with rectangular duct
 connections. If you compare the two intake layouts in more detail, our
-[dual-inlet vs single-inlet guide](/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/)
+[dual-inlet vs single-inlet guide](https://en.sunxfan.com/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/)
 covers the trade-offs.
 
 ## Why the SISW Fan Is the Compact Workhorse
@@ -118,12 +118,14 @@ resistance and easier top-outlet routing. Decide by measuring your system's
 resistance and the space around the fan — not by the acronym alone.
 
 Explore the full families: the
-[SF146C series](/en/products/series/sf146c/) (double inlet) and the
-[DG200 series](/en/products/series/dg200/) (single inlet), both available
+[SF146C series](https://en.sunxfan.com/en/products/series/sf146c/) (double inlet) and the
+[DG200 series](https://en.sunxfan.com/en/products/series/dg200/) (single inlet), both available
 across AC, DC and EC motor types. For the fundamentals behind inlet
 configurations, start with our
-[axial vs centrifugal comparison](/en/blog/axial-fan-vs-centrifugal-fan-difference/).
+[axial vs centrifugal comparison](https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/).
 
 ---
+
+Source: [https://en.sunxfan.com/en/blog/sisw-vs-didw-centrifugal-fans/](https://en.sunxfan.com/en/blog/sisw-vs-didw-centrifugal-fans/)
 
 _Last updated: 2026-11-03_

@@ -238,4 +238,6 @@ No carbon brushes, no belts, no mechanical commutation—long bearing life and e
 
 ---
 
+Source: [https://en.sunxfan.com/en/products/series/duct-fan-230vac/](https://en.sunxfan.com/en/products/series/duct-fan-230vac/)
+
 _Last updated: 2026-11-03_

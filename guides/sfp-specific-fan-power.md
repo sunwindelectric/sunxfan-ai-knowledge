@@ -65,4 +65,6 @@ Whichever type is chosen, the SFP figure quoted in a tender should be stated wit
 
 ---
 
+Source: [https://en.sunxfan.com/en/guides/sfp-specific-fan-power/](https://en.sunxfan.com/en/guides/sfp-specific-fan-power/)
+
 _Last updated: 2026-11-03_

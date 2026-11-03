@@ -25,11 +25,11 @@ The volute — the spiral housing around a centrifugal impeller — can be mould
 
 ## Where plastic wins
 
-**Range hoods and air curtains.** Grease-laden kitchen air is corrosive and the housing sits inside a consumer appliance where weight and cost matter. Moulded PA66-GF volutes resist detergents and humidity, and the molded bellmouth keeps noise down in a tight cabinet. The [SF146A dual-inlet series](/en/products/series/sf146a/) is built this way for exactly this duty.
+**Range hoods and air curtains.** Grease-laden kitchen air is corrosive and the housing sits inside a consumer appliance where weight and cost matter. Moulded PA66-GF volutes resist detergents and humidity, and the molded bellmouth keeps noise down in a tight cabinet. The [SF146A dual-inlet series](https://en.sunxfan.com/en/products/series/sf146a/) is built this way for exactly this duty.
 
 **ERV / HRV cores.** A ventilation core is a cold, damp, condensing environment. Steel needs coating; plastic does not. Light weight also matters because the unit hangs on a wall.
 
-**AHU and FCU modules.** When the air is filtered and below 60 °C, a molded housing removes a whole finishing step and cuts shipping weight. The [BC280 backward-curved series](/en/products/series/bc280/) is typical of this use.
+**AHU and FCU modules.** When the air is filtered and below 60 °C, a molded housing removes a whole finishing step and cuts shipping weight. The [BC280 backward-curved series](https://en.sunxfan.com/en/products/series/bc280/) is typical of this use.
 
 **Salt-mist and coastal duty.** Marine and coastal HVAC units see chloride-laden air. Glass-filled polyamide is unaffected; galvanised steel is not.
 
@@ -62,10 +62,12 @@ Neither failure mode is cheaper than choosing the right housing at specification
 
 ## What SUNXFAN<sup>®</sup> supplies
 
-The range covers both construction routes: molded PA66-GF25 dual-inlet and backward-curved housings for appliance, ERV and AHU duty, and metal-housed units for hotter or heavier duty. Material grades and their test coverage are documented on the [quality and testing page](/en/quality/), including the REACH SVHC screening that applies to the shared raw-material grades.
+The range covers both construction routes: molded PA66-GF25 dual-inlet and backward-curved housings for appliance, ERV and AHU duty, and metal-housed units for hotter or heavier duty. Material grades and their test coverage are documented on the [quality and testing page](https://en.sunxfan.com/en/quality/), including the REACH SVHC screening that applies to the shared raw-material grades.
 
 If the duty point is near a boundary — 70 °C continuous, coastal air, grease exposure — send the operating envelope with the enquiry and the housing will be specified with the margin, not against it.
 
 ---
+
+Source: [https://en.sunxfan.com/en/guides/plastic-vs-metal-volute-centrifugal-fan-housing/](https://en.sunxfan.com/en/guides/plastic-vs-metal-volute-centrifugal-fan-housing/)
 
 _Last updated: 2026-11-03_

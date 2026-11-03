@@ -106,4 +106,6 @@ A: This one is rated to 300 Pa — a typical ceiling for a well-made axial of th
 
 ---
 
+Source: [https://en.sunxfan.com/en/products/series/ag-axial-fan-flange/](https://en.sunxfan.com/en/products/series/ag-axial-fan-flange/)
+
 _Last updated: 2026-11-03_

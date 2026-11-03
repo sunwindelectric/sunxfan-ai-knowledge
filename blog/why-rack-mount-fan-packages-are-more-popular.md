@@ -14,8 +14,8 @@ control in one chassis — and that changes the economics of both the first
 installation and every service visit afterwards.
 
 Using SUNXFAN<sup>®</sup>'s two rack-mount blower models — the compact
-[CF146-650CFM-01](/en/products/cf146-650cfm-01/) and the high-capacity
-[CF160-2000CFM-01](/en/products/cf160-2000cfm-01/) — this article explains
+[CF146-650CFM-01](https://en.sunxfan.com/en/products/cf146-650cfm-01/) and the high-capacity
+[CF160-2000CFM-01](https://en.sunxfan.com/en/products/cf160-2000cfm-01/) — this article explains
 why rack-mount fan packages keep winning rack space in ventilation retrofits,
 cabinet cooling and fresh-air equipment.
 
@@ -106,12 +106,14 @@ removable intake grille, washable filter, compact chassis, easy installation.
   RS485 interface, the control path scales with the project.
 
 Browse the complete family on the
-[Rack-Mount Blower series page](/en/products/series/unit-ventilator/) or
-filter the [fan units category](/en/products/?category=fan-units) for
+[Rack-Mount Blower series page](https://en.sunxfan.com/en/products/series/unit-ventilator/) or
+filter the [fan units category](https://en.sunxfan.com/en/products/?category=fan-units) for
 compatibility options. For background on the centrifugal technology inside
 these packages, see our
-[SISW vs DIDW comparison](/en/blog/sisw-vs-didw-centrifugal-fans/).
+[SISW vs DIDW comparison](https://en.sunxfan.com/en/blog/sisw-vs-didw-centrifugal-fans/).
 
 ---
+
+Source: [https://en.sunxfan.com/en/blog/why-rack-mount-fan-packages-are-more-popular/](https://en.sunxfan.com/en/blog/why-rack-mount-fan-packages-are-more-popular/)
 
 _Last updated: 2026-11-03_

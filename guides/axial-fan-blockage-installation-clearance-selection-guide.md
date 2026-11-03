@@ -30,7 +30,7 @@ Design practice follows from the table. Reduce the first penalty by geometry, an
 
 ## Mechanism 1 — Inlet Geometry: Bell Mouth Versus Square Edge
 
-![Bell-mouth inlet versus square-edge re-entrant inlet, and the half-diameter wall clearance rule](/images/guides/axial-fan-inlet-geometry.svg)
+![Bell-mouth inlet versus square-edge re-entrant inlet, and the half-diameter wall clearance rule](https://en.sunxfan.com/images/guides/axial-fan-inlet-geometry.svg)
 
 *Figure 2 — The inlet lip decides whether the approach stream stays attached. A bell mouth holds the loss near 1/20 of the approach velocity head; a sharp re-entrant lip dumps about 0.9 of that head into turbulence.*
 
@@ -47,7 +47,7 @@ Wall proximity is the other half of inlet geometry. Keep at least **half an impe
 
 ## Mechanism 2 — Inlet Swirl: Direction Decides the Sign, Efficiency Falls Either Way
 
-![Co-rotating inlet swirl, counter-rotating inlet swirl, and the guide vane plus splitter plate remedy](/images/guides/axial-fan-inlet-swirl.svg)
+![Co-rotating inlet swirl, counter-rotating inlet swirl, and the guide vane plus splitter plate remedy](https://en.sunxfan.com/images/guides/axial-fan-inlet-swirl.svg)
 
 *Figure 3 — Swirl direction sets the sign of the pressure, airflow and power change, but the efficiency loss is common to both cases.*
 
@@ -74,7 +74,7 @@ Outlet blockage behaves differently from inlet blockage, and the rig evidence is
 2. **Reverse flow appears at the hub.** Blocked, the axial velocity near the hub turns negative — the inner part of the annulus starts recirculating instead of delivering.
 3. **The flow turns outward.** Radial velocity increases while axial velocity decreases, which is another way of saying the volumetric flow falls even though the impeller is still turning at the same speed.
 
-![Schematic of the catalogue curve and two degraded curves for the same fan](/images/guides/axial-fan-blockage-pq-curve.svg)
+![Schematic of the catalogue curve and two degraded curves for the same fan](https://en.sunxfan.com/images/guides/axial-fan-blockage-pq-curve.svg)
 
 *Figure 1 — The same fan, three curves. Catalogue (free inlet and outlet), a guard grille with high free area, and a guard behind a downstream obstruction. The gap widens towards the rated airflow — the sector the system was sized on.*
 
@@ -84,7 +84,7 @@ For the AS series this is the whole reason the guard is **integrated into the ri
 
 ## Quantifying Blockage: The Three-Line Method
 
-![The blockage loss calculation method and the K_se versus free-area curve](/images/guides/axial-fan-blockage-loss-method.svg)
+![The blockage loss calculation method and the K_se versus free-area curve](https://en.sunxfan.com/images/guides/axial-fan-blockage-loss-method.svg)
 
 *Figure 4 — The whole method in three lines, the standard worked example, and a reminder that K_se is a function of free area rather than a constant.*
 
@@ -139,7 +139,7 @@ Plot any blocked measurement on these same axes and the blockage shows up as the
 
 ## Sizing the AS Series for a Real Installation
 
-![SUNXFAN<sup>®</sup> AS series EC axial fan with integrated wall ring and guard](/images/series/as-axial-fan-guard-ring-axial-fan-series-photo.webp)
+![SUNXFAN<sup>®</sup> AS series EC axial fan with integrated wall ring and guard](https://en.sunxfan.com/images/series/as-axial-fan-guard-ring-axial-fan-series-photo.webp)
 
 *The AS series — high-airflow EC axial fans with a wall ring and guard integrated in the ring, 380-480 V AC three-phase, IP55, −40 °C to +65 °C.*
 
@@ -216,8 +216,10 @@ An axial fan catalogue curve is a free-inlet, free-outlet curve, and a real inst
 
 For the AS series, four numbers settle most arguments: **half an impeller diameter (455 mm) to any inlet wall, about one impeller diameter (910 mm) to the first downstream obstruction, ≥ 70% guard free area (V′ ≤ 15.3 m/s at 25,000 m³/h), and an inlet lip worth 3.4 Pa against 61.6 Pa for a square edge.** Spend the small money on the ring and the guard, place the loss on the system curve as Δp_se = K_se × ½ρV′², and commission with a differential pressure reading instead of an assumption.
 
-For a unit-by-unit comparison across the family, see the [AS Axial-Fan Integrated Guard Ring series](/en/products/series/as-axial-fan-guard-ring/) or the [AS910A-E150A3-01 product page](/en/products/as910a-e150a3-01/). If your duty is dominated by static pressure rather than by bulk airflow, compare against the [centrifugal fan selection guide](/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/) before committing to an axial fan.
+For a unit-by-unit comparison across the family, see the [AS Axial-Fan Integrated Guard Ring series](https://en.sunxfan.com/en/products/series/as-axial-fan-guard-ring/) or the [AS910A-E150A3-01 product page](https://en.sunxfan.com/en/products/as910a-e150a3-01/). If your duty is dominated by static pressure rather than by bulk airflow, compare against the [centrifugal fan selection guide](https://en.sunxfan.com/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/) before committing to an axial fan.
 
 ---
+
+Source: [https://en.sunxfan.com/en/guides/axial-fan-blockage-installation-clearance-selection-guide/](https://en.sunxfan.com/en/guides/axial-fan-blockage-installation-clearance-selection-guide/)
 
 _Last updated: 2026-11-03_
