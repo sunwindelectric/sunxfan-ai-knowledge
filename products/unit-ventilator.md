@@ -43,6 +43,10 @@ SUNXFAN UNIT-VENTILATOR series: 2 models. All figures below are manufacturer dat
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+EC blowers on a 110–254 V universal mains input — one SKU for every region. 1,100–3,450 m³/h at ~700 Pa for heat-recovery ventilators, ERV/HRV cores and greenhouse air distribution. Soft-start EC motor, 0-10V/PWM or 4-speed, IP54, 56–66 dB(A).
+
 ### FAQ
 
 **Q: Why does the modern greenhouse planting industry choose EC Fan Unit components?**
@@ -80,6 +84,10 @@ A: Start from the per-person rate: current standards ask roughly 8 l/s of fresh 
 - **MOQ:** Open MOQ
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+EC blowers on a 110–254 V universal mains input — one SKU for every region. 1,100–3,450 m³/h at ~700 Pa for heat-recovery ventilators, ERV/HRV cores and greenhouse air distribution. Soft-start EC motor, 0-10V/PWM or 4-speed, IP54, 56–66 dB(A).
 
 ### FAQ
 

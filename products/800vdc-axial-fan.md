@@ -44,6 +44,10 @@ SUNXFAN 800VDC Axial Fan series: 3 models. All figures below are manufacturer da
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+High-voltage DC axial fans that connect straight to the DC bus of solar, storage and battery-test systems — 420–800 V wide input, IP68. 1,950–9,000 m³/h at up to 1,550 Pa for battery-room ventilation and power-electronics cooling, with no inverter stage. 0-10V/PWM control; CAN 2.0/CAN FD telemetry available.
+
 ### FAQ
 
 **Q: What are the primary applications of 800VDC brushless fans?**
@@ -110,6 +114,10 @@ A: It turns the fan from an anonymous load into a reporting device. Over CAN FD 
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+High-voltage DC axial fans that connect straight to the DC bus of solar, storage and battery-test systems — 420–800 V wide input, IP68. 1,950–9,000 m³/h at up to 1,550 Pa for battery-room ventilation and power-electronics cooling, with no inverter stage. 0-10V/PWM control; CAN 2.0/CAN FD telemetry available.
+
 ## AG400A-D092BA-02 — DC400 Axial Fan — 9000 m³/h
 
 ### Specifications
@@ -130,6 +138,10 @@ A: It turns the fan from an anonymous load into a reporting device. Over CAN FD 
 - **MOQ:** 144 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+High-voltage DC axial fans that connect straight to the DC bus of solar, storage and battery-test systems — 420–800 V wide input, IP68. 1,950–9,000 m³/h at up to 1,550 Pa for battery-room ventilation and power-electronics cooling, with no inverter stage. 0-10V/PWM control; CAN 2.0/CAN FD telemetry available.
 
 ---
 

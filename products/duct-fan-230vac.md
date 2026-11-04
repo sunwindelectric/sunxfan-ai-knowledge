@@ -48,6 +48,10 @@ SUNXFAN DUCT-FAN-230VAC series: 7 models. All figures below are manufacturer dat
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
+
 ### FAQ
 
 **Q: We are currently using an AC Duct Fan and do not want to change the existing installation dimensions. Can we replace it with your company's EC Duct Fan?**
@@ -76,6 +80,10 @@ A: Yes, our company's EC Duct Fan installation dimensions are compatible with th
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
+
 ## CF150A-E072B3-01 — 6 Inch EC Duct Fan CF150A-E072B3-01 — 720 m³/h
 
 ### Specifications
@@ -96,6 +104,10 @@ A: Yes, our company's EC Duct Fan installation dimensions are compatible with th
 - **MOQ:** 384 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
 
 ### FAQ
 
@@ -134,6 +146,10 @@ So an EC duct fan is not just a fan with a different blade — the motor and con
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
+
 ### FAQ
 
 **Q: Can it handle a grow room’s long duct and carbon filter?**
@@ -161,6 +177,10 @@ A: That is exactly what the pressure budget is for. A typical carbon filter cost
 - **MOQ:** 384 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
 
 ### FAQ
 
@@ -194,6 +214,10 @@ A: HVAC supply and exhaust systems, bathroom, toilet, and kitchen ventilation, c
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
+
 ## CF315A-E092E3-01 — 12 Inch EC Duct Fan CF315A-E092E3-01 — 1750 m³/h
 
 ### Specifications
@@ -214,6 +238,10 @@ A: HVAC supply and exhaust systems, bathroom, toilet, and kitchen ventilation, c
 - **MOQ:** 384 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+EC inline duct fans (100–315 mm spigot) that clamp into round ducting: 320–1,750 m³/h at up to 1,010 Pa. Backward-curved EC wheels develop real static pressure where cheap axial duct fans stall. 120/230 V versions, 0-10V/PWM, IP54, 58–66 dB(A).
 
 ### FAQ
 

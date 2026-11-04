@@ -46,6 +46,10 @@ SUNXFAN AF Axial Fan- Guard series: 5 models. All figures below are manufacturer
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Guarded axial fans for free-air blowing and low-pressure ducted duty — condensers, dry coolers, evaporators and outdoor machine compartments. Below ~300 Pa axial geometry moves the most air per watt; this series covers 1,750–10,000 m³/h at up to 300 Pa. AC (230 V / 380 V 3-ph) and EC builds, IP54, powder-coated wire guard fitted.
+
 ### FAQ
 
 **Q: Why do condensers, dry coolers and evaporators use axial fans instead of centrifugal?**
@@ -82,6 +86,10 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Guarded axial fans for free-air blowing and low-pressure ducted duty — condensers, dry coolers, evaporators and outdoor machine compartments. Below ~300 Pa axial geometry moves the most air per watt; this series covers 1,750–10,000 m³/h at up to 300 Pa. AC (230 V / 380 V 3-ph) and EC builds, IP54, powder-coated wire guard fitted.
+
 ## AF400D-A106A3-01 — AC400 Axial Fan — 3600 m³/h
 
 ### Specifications
@@ -102,6 +110,10 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 - **MOQ:** 360 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+Guarded axial fans for free-air blowing and low-pressure ducted duty — condensers, dry coolers, evaporators and outdoor machine compartments. Below ~300 Pa axial geometry moves the most air per watt; this series covers 1,750–10,000 m³/h at up to 300 Pa. AC (230 V / 380 V 3-ph) and EC builds, IP54, powder-coated wire guard fitted.
 
 ## AF500D-A106C3-01 — AC500 Axial Fan — 7050 m³/h
 
@@ -124,6 +136,10 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Guarded axial fans for free-air blowing and low-pressure ducted duty — condensers, dry coolers, evaporators and outdoor machine compartments. Below ~300 Pa axial geometry moves the most air per watt; this series covers 1,750–10,000 m³/h at up to 300 Pa. AC (230 V / 380 V 3-ph) and EC builds, IP54, powder-coated wire guard fitted.
+
 ## AF600D-A137A3-01 — AC600 Axial Fan — 10000 m³/h
 
 ### Specifications
@@ -144,6 +160,10 @@ A: Size by coil face velocity first — 2.5–3.5 m/s is the usual condenser win
 - **MOQ:** 240 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+Guarded axial fans for free-air blowing and low-pressure ducted duty — condensers, dry coolers, evaporators and outdoor machine compartments. Below ~300 Pa axial geometry moves the most air per watt; this series covers 1,750–10,000 m³/h at up to 300 Pa. AC (230 V / 380 V 3-ph) and EC builds, IP54, powder-coated wire guard fitted.
 
 ---
 

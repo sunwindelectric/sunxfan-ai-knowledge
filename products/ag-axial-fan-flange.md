@@ -45,6 +45,10 @@ SUNXFAN AG Axial Fan- Flange series: 3 models. All figures below are manufacture
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Flanged axial fans (280×280 frame) that bolt directly onto ducts, spigots and cabinet cut-outs — sealed connection, no recirculation losses. 1,100–1,950 m³/h at 300–500 Pa for cabinet ventilation and heat-exchanger duty. DC (24 V / 310 V) and EC (230 V AC) versions with 0-10V/PWM.
+
 ## AG250B-D092A0-01 — DC28080 Axial Fan — 1950 m³/h
 
 ### Specifications
@@ -66,6 +70,10 @@ SUNXFAN AG Axial Fan- Flange series: 3 models. All figures below are manufacture
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Flanged axial fans (280×280 frame) that bolt directly onto ducts, spigots and cabinet cut-outs — sealed connection, no recirculation losses. 1,100–1,950 m³/h at 300–500 Pa for cabinet ventilation and heat-exchanger duty. DC (24 V / 310 V) and EC (230 V AC) versions with 0-10V/PWM.
+
 ## AG250C-E072B3-03 — EC28080 Axial Fan — 1850 m³/h
 
 ### Specifications
@@ -86,6 +94,10 @@ SUNXFAN AG Axial Fan- Flange series: 3 models. All figures below are manufacture
 - **MOQ:** 360 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+Flanged axial fans (280×280 frame) that bolt directly onto ducts, spigots and cabinet cut-outs — sealed connection, no recirculation losses. 1,100–1,950 m³/h at 300–500 Pa for cabinet ventilation and heat-exchanger duty. DC (24 V / 310 V) and EC (230 V AC) versions with 0-10V/PWM.
 
 ### FAQ
 

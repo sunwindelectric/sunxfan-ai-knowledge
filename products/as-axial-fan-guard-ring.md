@@ -46,6 +46,10 @@ SUNXFAN AS Axial Fan- Guard-Ring series: 4 models. All figures below are manufac
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Large EC axial fans (760–960 mm impeller, 380–480 V AC) with wall ring and guard for free-cooling walls, large AHUs and industrial air exchange. 16,500–29,000 m³/h per fan; 0-10V/PWM and Modbus RTU for plant integration. -40 °C to +65 °C operating window.
+
 ## AS860A-E150A3-01 — EC860 Axial Fan — 24000 m³/h
 
 ### Specifications
@@ -68,6 +72,10 @@ SUNXFAN AS Axial Fan- Guard-Ring series: 4 models. All figures below are manufac
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
 
+### Applications
+
+Large EC axial fans (760–960 mm impeller, 380–480 V AC) with wall ring and guard for free-cooling walls, large AHUs and industrial air exchange. 16,500–29,000 m³/h per fan; 0-10V/PWM and Modbus RTU for plant integration. -40 °C to +65 °C operating window.
+
 ## AS910A-E150A3-01 — EC910 Axial Fan — 25000 m³/h
 
 ### Specifications
@@ -89,6 +97,10 @@ SUNXFAN AS Axial Fan- Guard-Ring series: 4 models. All figures below are manufac
 - **MOQ:** 70 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+Large EC axial fans (760–960 mm impeller, 380–480 V AC) with wall ring and guard for free-cooling walls, large AHUs and industrial air exchange. 16,500–29,000 m³/h per fan; 0-10V/PWM and Modbus RTU for plant integration. -40 °C to +65 °C operating window.
 
 ### FAQ
 
@@ -149,6 +161,10 @@ A: The EC electronics expose the fan as a Modbus RTU slave: the BMS writes the s
 - **MOQ:** 70 PCS
 - **FOB:** FOB Nansha Guangzhou
 - **Lead time:** 25-30 days
+
+### Applications
+
+Large EC axial fans (760–960 mm impeller, 380–480 V AC) with wall ring and guard for free-cooling walls, large AHUs and industrial air exchange. 16,500–29,000 m³/h per fan; 0-10V/PWM and Modbus RTU for plant integration. -40 °C to +65 °C operating window.
 
 ---
 
