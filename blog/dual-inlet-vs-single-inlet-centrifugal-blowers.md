@@ -111,4 +111,4 @@ distribution-critical HVAC and industrial systems.
 
 Source: [https://en.sunxfan.com/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/](https://en.sunxfan.com/en/blog/dual-inlet-vs-single-inlet-centrifugal-blowers/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

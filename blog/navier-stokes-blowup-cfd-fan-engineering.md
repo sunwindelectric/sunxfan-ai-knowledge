@@ -88,4 +88,4 @@ About SUNXFAN<sup>®</sup>: SUNXFAN manufactures industrial EC, DC and AC centri
 
 Source: [https://en.sunxfan.com/en/blog/navier-stokes-blowup-cfd-fan-engineering/](https://en.sunxfan.com/en/blog/navier-stokes-blowup-cfd-fan-engineering/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

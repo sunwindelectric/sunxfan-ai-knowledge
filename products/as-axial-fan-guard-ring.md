@@ -154,4 +154,4 @@ A: The EC electronics expose the fan as a Modbus RTU slave: the BMS writes the s
 
 Source: [https://en.sunxfan.com/en/products/series/as-axial-fan-guard-ring/](https://en.sunxfan.com/en/products/series/as-axial-fan-guard-ring/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

@@ -47,4 +47,4 @@ External rotor EC motors provide the ultimate solution. By integrating the motor
 
 Source: [https://en.sunxfan.com/en/guides/how-to-choose-the-right-fan-system-commercial-vs-residential-ventilation/](https://en.sunxfan.com/en/guides/how-to-choose-the-right-fan-system-commercial-vs-residential-ventilation/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

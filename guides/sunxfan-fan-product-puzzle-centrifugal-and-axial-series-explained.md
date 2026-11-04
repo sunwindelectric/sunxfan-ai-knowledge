@@ -53,4 +53,4 @@ Browse the full catalog on our [products page](https://en.sunxfan.com/en/product
 
 Source: [https://en.sunxfan.com/en/guides/sunxfan-fan-product-puzzle-centrifugal-and-axial-series-explained/](https://en.sunxfan.com/en/guides/sunxfan-fan-product-puzzle-centrifugal-and-axial-series-explained/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

@@ -222,4 +222,4 @@ For a unit-by-unit comparison across the family, see the [AS Axial-Fan Integrate
 
 Source: [https://en.sunxfan.com/en/guides/axial-fan-blockage-installation-clearance-selection-guide/](https://en.sunxfan.com/en/guides/axial-fan-blockage-installation-clearance-selection-guide/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

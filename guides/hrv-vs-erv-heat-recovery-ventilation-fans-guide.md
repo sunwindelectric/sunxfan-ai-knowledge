@@ -71,4 +71,4 @@ HRV moves heat, ERV moves heat and moisture — and the climate you build in pic
 
 Source: [https://en.sunxfan.com/en/guides/hrv-vs-erv-heat-recovery-ventilation-fans-guide/](https://en.sunxfan.com/en/guides/hrv-vs-erv-heat-recovery-ventilation-fans-guide/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

@@ -135,4 +135,4 @@ A: It turns the fan from an anonymous load into a reporting device. Over CAN FD 
 
 Source: [https://en.sunxfan.com/en/products/series/800vdc-axial-fan/](https://en.sunxfan.com/en/products/series/800vdc-axial-fan/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

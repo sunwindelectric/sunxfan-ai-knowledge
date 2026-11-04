@@ -97,4 +97,4 @@ operating point, or request a sample for validation.
 
 Source: [https://en.sunxfan.com/en/blog/inside-ie5-pmsm-ec-fan-technology/](https://en.sunxfan.com/en/blog/inside-ie5-pmsm-ec-fan-technology/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

@@ -55,4 +55,4 @@ In smart agriculture applications like hydroponics and soilless farming, climate
 
 Source: [https://en.sunxfan.com/en/guides/why-hydroponics-and-plant-factories-prefer-ec-backward-curved-centrifugal-fans-an-in-depth-comparison-with-ec-double-inlet-blowers/](https://en.sunxfan.com/en/guides/why-hydroponics-and-plant-factories-prefer-ec-backward-curved-centrifugal-fans-an-in-depth-comparison-with-ec-double-inlet-blowers/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

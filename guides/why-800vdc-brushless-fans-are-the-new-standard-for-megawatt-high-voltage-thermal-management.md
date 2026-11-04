@@ -39,4 +39,4 @@ From VTOLs soaring above the clouds to megawatt-class energy storage and hydroge
 
 Source: [https://en.sunxfan.com/en/guides/why-800vdc-brushless-fans-are-the-new-standard-for-megawatt-high-voltage-thermal-management/](https://en.sunxfan.com/en/guides/why-800vdc-brushless-fans-are-the-new-standard-for-megawatt-high-voltage-thermal-management/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

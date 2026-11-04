@@ -23,7 +23,7 @@ SUNXFAN AG Axial Fan- Flange series: 3 models. All figures below are manufacture
 | AG250B-D092A0-01 | 1950 m³/h | 300 Pa | 310 V DC | 140 W | 3050 r/min | 69 dB(A) | 0-10V/PWM / 0-5V |
 | AG250C-E072B3-03 | 1850 m³/h | 300 Pa | 230 V AC | 120 W | 2700 r/min | 68 dB(A) | 0-10V/PWM |
 
-## AG200B-D092A6-03 — EC25080 Axial Fan — 1100 m³/h
+## AG200B-D092A6-03 — 22580 DC Axial Fan — 1100 m³/h
 
 ### Specifications
 
@@ -115,4 +115,4 @@ A: This one is rated to 300 Pa — a typical ceiling for a well-made axial of th
 
 Source: [https://en.sunxfan.com/en/products/series/ag-axial-fan-flange/](https://en.sunxfan.com/en/products/series/ag-axial-fan-flange/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

@@ -2,7 +2,7 @@
 
 > Authoritative, structured, machine-readable fan data from SUNXFAN (Foshan Sunwind Electric Co., Ltd.). Compiled from the manufacturer's product datasheets, selection guides and technical articles. Canonical HTML source: https://en.sunxfan.com. Full text mirror: https://en.sunxfan.com/llms-full.txt
 
-Last updated: 2026-11-03
+Last updated: 2026-11-04
 
 ## Start here
 

@@ -2,7 +2,7 @@
 
 This repository is the structured knowledge base for SUNXFAN (Foshan Sunwind Electric Co., Ltd.), a manufacturer of EC, DC and AC axial and centrifugal fans.
 
-Last updated: 2026-11-03
+Last updated: 2026-11-04
 
 ## Routing rules
 

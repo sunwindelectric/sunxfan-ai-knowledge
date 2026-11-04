@@ -70,4 +70,4 @@ If the duty point is near a boundary — 70 °C continuous, coastal air, grease 
 
 Source: [https://en.sunxfan.com/en/guides/plastic-vs-metal-volute-centrifugal-fan-housing/](https://en.sunxfan.com/en/guides/plastic-vs-metal-volute-centrifugal-fan-housing/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

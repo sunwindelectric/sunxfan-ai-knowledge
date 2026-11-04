@@ -101,4 +101,4 @@ A: A high-performance EC Inline or EC Centrifugal Fan Unit should be used as the
 
 Source: [https://en.sunxfan.com/en/products/series/unit-ventilator/](https://en.sunxfan.com/en/products/series/unit-ventilator/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_

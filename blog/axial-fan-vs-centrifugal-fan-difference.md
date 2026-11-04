@@ -156,4 +156,4 @@ a validated fan solution.
 
 Source: [https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/](https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/)
 
-_Last updated: 2026-11-03_
+_Last updated: 2026-11-04_
