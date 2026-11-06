@@ -1,2 +1,5 @@
-<link rel="canonical" href="{{ page.url | absolute_url }}">
+---
+---
+{%- assign canon = site.data.canonical[page.url] -%}
+<link rel="canonical" href="{{ canon | default: page.url | absolute_url }}">
 <meta name="robots" content="index,follow">

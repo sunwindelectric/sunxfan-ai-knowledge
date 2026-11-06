@@ -5,7 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.title | escape }}</title>
 <meta name="description" content="{{ page.description | escape }}">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
+{%- comment -%}
+  canonical 归并到主站：本 KB 是主站内容的机器可读镜像，
+  自指 canonical 会让 Google 把它当独立页面与主站争抢排名。
+  映射表见 _data/canonical.yml（每条都已实测主站返回 200）；
+  表里没有的页面（如 agent_router）回退为自指。
+{%- endcomment -%}
+{%- assign canon = site.data.canonical[page.url] -%}
+<link rel="canonical" href="{{ canon | default: page.url | absolute_url }}">
 <meta name="robots" content="index,follow">
 <style>
 body{margin:0;font:16px/1.65 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#222;background:#fff}
