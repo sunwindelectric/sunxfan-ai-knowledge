@@ -1,6 +1,6 @@
 # KB 页面 → 主站对应页（用于 canonical 归并）
-# 由主站 scripts 生成；每一条都已实测主站返回 200。
-# 键为 KB 站内的路径（含 .html），值为主站绝对 URL。
+# 由主站 scripts/gen-kb-canonical.mjs 生成，请勿手改。
+# 键为 KB 站内路径（含 .html），值为主站绝对 URL。
 "/": "https://en.sunxfan.com/en/"
 "/blog/axial-fan-vs-centrifugal-fan-difference.html": "https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/"
 "/blog/cav-vav-fan-systems.html": "https://en.sunxfan.com/en/blog/cav-vav-fan-systems/"
