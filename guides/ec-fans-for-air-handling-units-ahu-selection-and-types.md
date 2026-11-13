@@ -62,4 +62,4 @@ For most AHUs the choice is now straightforward: backward-curved EC double-inlet
 
 Source: [https://en.sunxfan.com/en/guides/ec-fans-for-air-handling-units-ahu-selection-and-types/](https://en.sunxfan.com/en/guides/ec-fans-for-air-handling-units-ahu-selection-and-types/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

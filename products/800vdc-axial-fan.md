@@ -147,4 +147,4 @@ High-voltage DC axial fans that connect straight to the DC bus of solar, storage
 
 Source: [https://en.sunxfan.com/en/products/series/800vdc-axial-fan/](https://en.sunxfan.com/en/products/series/800vdc-axial-fan/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

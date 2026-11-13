@@ -2,7 +2,7 @@
 
 > Authoritative, structured, machine-readable fan data from SUNXFAN (Foshan Sunwind Electric Co., Ltd.). Compiled from the manufacturer's product datasheets, selection guides and technical articles. Canonical HTML source: https://en.sunxfan.com. Full text mirror: https://en.sunxfan.com/llms-full.txt
 
-Last updated: 2026-11-04
+Last updated: 2026-11-13
 
 ## Start here
 
@@ -38,8 +38,9 @@ Last updated: 2026-11-04
 - [EC Forward-curved Double inlet Centrifugal fan-SF235](products/sf235.html): 1 model, full specs, duty curves and FAQ.
 - [UNIT-VENTILATOR — Fan Units](products/unit-ventilator.html): 2 models, full specs, duty curves and FAQ.
 
-## Technical blog (11 articles)
+## Technical blog (12 articles)
 
+- [What Is Fan Noise, Exactly? A Technical Deep Dive](blog/what-is-fan-noise.html): The datasheet says 35 dB(A), so why does the fan sound louder once it is installed? From the logarithmic nature of decibels to A-weighting, phon and sone, the three sources of fan noise and a system-level noise-reduction checklist — this guide explains fan noise end to end.
 - [Navier–Stokes Blow-Up: Does Fan CFD Still Hold Up?](blog/navier-stokes-blowup-cfd-fan-engineering.html): The 2026 shift in Navier–Stokes research is not a collapse of CFD. It is a sharper statement about where the equations can be trusted — and where fan engineers must lean on test data.
 - [SUNXFAN to Exhibit at Warsaw HVAC Expo 2027 (Hall F1, Booth 40C)](blog/sunxfan-warsaw-hvac-expo-2027.html): SUNXFAN will exhibit at Warsaw HVAC Expo 2027, held from 23 to 25 February 2027 at Ptak Warsaw Expo in Nadarzyn, Poland. SUNXFAN's booth is Hall F1, Booth 40C.
 - [Top Centrifugal Fan Manufacturers Worldwide](blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide.html): An objective overview of the leading centrifugal fan manufacturers and suppliers worldwide — EBM-Papst, Greenheck, Systemair, SUNXFAN and Twin City Fan.

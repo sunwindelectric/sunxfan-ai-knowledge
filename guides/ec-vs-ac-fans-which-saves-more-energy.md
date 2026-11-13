@@ -45,4 +45,4 @@ For intermittent duty, AC is still the lowest up-front cost. For anything that r
 
 Source: [https://en.sunxfan.com/en/guides/ec-vs-ac-fans-which-saves-more-energy/](https://en.sunxfan.com/en/guides/ec-vs-ac-fans-which-saves-more-energy/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

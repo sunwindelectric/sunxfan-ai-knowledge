@@ -40,4 +40,4 @@ Selecting the right centrifugal fan supplier depends on specific project require
 
 Source: [https://en.sunxfan.com/en/blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide/](https://en.sunxfan.com/en/blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

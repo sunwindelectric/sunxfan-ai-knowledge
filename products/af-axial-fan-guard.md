@@ -169,4 +169,4 @@ Guarded axial fans for free-air blowing and low-pressure ducted duty — condens
 
 Source: [https://en.sunxfan.com/en/products/series/af-axial-fan-guard/](https://en.sunxfan.com/en/products/series/af-axial-fan-guard/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

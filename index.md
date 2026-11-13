@@ -42,6 +42,7 @@ Structured Markdown knowledge base for AI engines and agents. Start with [agent_
 
 ## Blog
 
+- [What Is Fan Noise, Exactly? A Technical Deep Dive](blog/what-is-fan-noise.html)
 - [Navier–Stokes Blow-Up: Does Fan CFD Still Hold Up?](blog/navier-stokes-blowup-cfd-fan-engineering.html)
 - [SUNXFAN to Exhibit at Warsaw HVAC Expo 2027 (Hall F1, Booth 40C)](blog/sunxfan-warsaw-hvac-expo-2027.html)
 - [Top Centrifugal Fan Manufacturers Worldwide](blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide.html)
@@ -79,4 +80,4 @@ Structured Markdown knowledge base for AI engines and agents. Start with [agent_
 
 Source: [https://en.sunxfan.com/en/](https://en.sunxfan.com/en/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

@@ -2,7 +2,7 @@
 
 Machine-readable fan knowledge for AI crawlers and agents. See [agent_router.md](agent_router.md), [llms.txt](llms.txt) and [index.md](index.md).
 
-Last updated: 2026-11-04
+Last updated: 2026-11-13
 
 Canonical website: https://en.sunxfan.com
 

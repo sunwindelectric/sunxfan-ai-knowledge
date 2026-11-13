@@ -20,4 +20,4 @@ layout: kb
 
 Source: [https://en.sunxfan.com/en/about/](https://en.sunxfan.com/en/about/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

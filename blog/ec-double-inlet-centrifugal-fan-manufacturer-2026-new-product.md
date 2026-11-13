@@ -76,4 +76,4 @@ Full performance curves, dimension drawings and PDF spec sheets for every model 
 
 Source: [https://en.sunxfan.com/en/blog/ec-double-inlet-centrifugal-fan-manufacturer-2026-new-product/](https://en.sunxfan.com/en/blog/ec-double-inlet-centrifugal-fan-manufacturer-2026-new-product/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

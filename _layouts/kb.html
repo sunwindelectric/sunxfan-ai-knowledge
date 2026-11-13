@@ -5,14 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.title | escape }}</title>
 <meta name="description" content="{{ page.description | escape }}">
-{%- comment -%}
-  canonical 归并到主站：本 KB 是主站内容的机器可读镜像，
-  自指 canonical 会让 Google 把它当独立页面与主站争抢排名。
-  映射表见 _data/canonical.yml（每条都已实测主站返回 200）；
-  表里没有的页面（如 agent_router）回退为自指。
-{%- endcomment -%}
-{%- assign canon = site.data.canonical[page.url] -%}
-<link rel="canonical" href="{{ canon | default: page.url | absolute_url }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
 <meta name="robots" content="index,follow">
 <style>
 body{margin:0;font:16px/1.65 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#222;background:#fff}
@@ -22,9 +15,6 @@ h2{font-size:1.25rem;margin:32px 0 12px;border-bottom:1px solid #eee;padding-bot
 a{color:#0b57d0;text-decoration:none}
 a:hover{text-decoration:underline}
 hr{border:0;border-top:1px solid #eee;margin:32px 0}
-.kb-related{margin-top:8px}
-.kb-related ul{margin:8px 0 0;padding-left:20px}
-.kb-related li{margin:4px 0}
 table{border-collapse:collapse;width:100%;font-size:.92rem}
 th,td{border:1px solid #ddd;padding:6px 10px;text-align:left}
 </style>
@@ -32,23 +22,6 @@ th,td{border:1px solid #ddd;padding:6px 10px;text-align:left}
 <body>
 <main>
 {{ content }}
-{%- comment -%}
-  正文末尾的「Related on sunxfan.com」区块：从 _data/related.yml 读取本页对应的主站页面。
-  这些是 follow 外链（github.io 是自家站点，链接不过 nofollow），用于把 KB 的权重导向主站
-  产品系列页 / 应用页 / 工程指南。表里没有的页面（如 agent_router）不渲染此区块。
-{%- endcomment -%}
-{%- assign rel = site.data.related[page.url] -%}
-{%- if rel and rel.size > 0 -%}
-<hr>
-<section class="kb-related">
-  <h2>Related on sunxfan.com</h2>
-  <ul>
-  {%- for item in rel %}
-    <li><a href="{{ item.url }}">{{ item.label | escape }}</a></li>
-  {%- endfor %}
-  </ul>
-</section>
-{%- endif -%}
 </main>
 </body>
 </html>

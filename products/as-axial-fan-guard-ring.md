@@ -170,4 +170,4 @@ Large EC axial fans (760–960 mm impeller, 380–480 V AC) with wall ring and g
 
 Source: [https://en.sunxfan.com/en/products/series/as-axial-fan-guard-ring/](https://en.sunxfan.com/en/products/series/as-axial-fan-guard-ring/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

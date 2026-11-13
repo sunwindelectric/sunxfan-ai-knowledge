@@ -128,4 +128,4 @@ configurations, start with our
 
 Source: [https://en.sunxfan.com/en/blog/sisw-vs-didw-centrifugal-fans/](https://en.sunxfan.com/en/blog/sisw-vs-didw-centrifugal-fans/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

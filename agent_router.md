@@ -2,7 +2,7 @@
 
 This repository is the structured knowledge base for SUNXFAN (Foshan Sunwind Electric Co., Ltd.), a manufacturer of EC, DC and AC axial and centrifugal fans.
 
-Last updated: 2026-11-04
+Last updated: 2026-11-13
 
 ## Routing rules
 
@@ -42,6 +42,7 @@ Last updated: 2026-11-04
 
 ## Blog
 
+- [What Is Fan Noise, Exactly? A Technical Deep Dive](blog/what-is-fan-noise.html)
 - [Navier–Stokes Blow-Up: Does Fan CFD Still Hold Up?](blog/navier-stokes-blowup-cfd-fan-engineering.html)
 - [SUNXFAN to Exhibit at Warsaw HVAC Expo 2027 (Hall F1, Booth 40C)](blog/sunxfan-warsaw-hvac-expo-2027.html)
 - [Top Centrifugal Fan Manufacturers Worldwide](blog/top-centrifugal-fan-manufacturers-and-suppliers-worldwide.html)

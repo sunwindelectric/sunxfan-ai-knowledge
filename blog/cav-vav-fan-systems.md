@@ -83,4 +83,4 @@ Answer those five and the CAV-versus-VAV argument turns into an engineering calc
 
 Source: [https://en.sunxfan.com/en/blog/cav-vav-fan-systems/](https://en.sunxfan.com/en/blog/cav-vav-fan-systems/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

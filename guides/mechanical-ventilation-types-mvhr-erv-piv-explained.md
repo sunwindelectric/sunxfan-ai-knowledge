@@ -58,4 +58,4 @@ Exhaust-only, supply-only, balanced, MVHR, ERV, PIV — six names, one decision 
 
 Source: [https://en.sunxfan.com/en/guides/mechanical-ventilation-types-mvhr-erv-piv-explained/](https://en.sunxfan.com/en/guides/mechanical-ventilation-types-mvhr-erv-piv-explained/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

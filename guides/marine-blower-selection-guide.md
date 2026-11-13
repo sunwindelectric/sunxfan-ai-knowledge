@@ -66,4 +66,4 @@ Marine ventilation duties are varied, but the physics never changes: move air th
 
 Source: [https://en.sunxfan.com/en/guides/marine-blower-selection-guide/](https://en.sunxfan.com/en/guides/marine-blower-selection-guide/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

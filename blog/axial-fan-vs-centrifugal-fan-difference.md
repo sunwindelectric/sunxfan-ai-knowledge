@@ -94,6 +94,81 @@ Typical centrifugal fan characteristics:
 | Motor options | AC, DC, **EC external rotor** | AC, DC, **EC external rotor** |
 | Typical duty | Cabinet/electronics cooling, wall ventilation | HVAC AHU, cleanroom, process equipment |
 
+## Fan vs Blower: Same Everyday Word, Different Machine
+
+Buyers often search "blower vs fan" as if they were interchangeable. In
+engineering terms they are not, and the distinction explains most sourcing
+confusion.
+
+| | Fan | Blower (centrifugal fan) |
+| --- | --- | --- |
+| Air movement | Moves a large volume at low pressure rise | Moves a smaller volume but raises pressure substantially |
+| Typical pressure rise | Up to a few hundred Pa | Hundreds to several thousand Pa |
+| Air path | Straight through the impeller | Enters axially, leaves at 90° through a scroll |
+| Housing | Open frame, ring or short casing | Enclosed scroll with a defined outlet |
+| Where it sits | In a wall, panel or duct as a flow path | At the head of a system it has to pressurise |
+
+The practical test: if the fan only has to *move* air that is already free to
+flow, it is a fan. If it has to *push* air through something that resists —
+filters, coils, long ducts — it is doing a blower's job, and a centrifugal
+impeller in a scroll housing is the honest answer.
+
+This is why "difference between fan and blower" and "difference between
+exhaust fan and ventilation fan" are really the same question asked twice: the
+machine is chosen by the resistance in the path, not by the label on the
+catalogue page.
+
+## Exhaust Fan vs Ventilation Fan
+
+The two terms describe **where the air goes**, not how the fan is built:
+
+- An **exhaust fan** removes air from a space to the outside — kitchen hoods,
+  toilet extracts, welding fume extraction, paint booth exhaust.
+- A **ventilation fan** is the broader category: it may supply fresh air,
+  extract stale air, or both, and includes exhaust fans as a subset.
+
+For industrial projects the useful split is supply versus extract, because it
+determines whether the fan sees a clean intake path (supply, low resistance) or
+a contaminated, filtered one (extract, higher resistance — usually a
+centrifugal blower).
+
+## Radial vs Axial: A Terminology Map
+
+Much of the search confusion comes from four words describing two families:
+
+| Term you may see | What it actually means |
+| --- | --- |
+| **Axial**, propeller fan, tube-axial, vane-axial | Air travels parallel to the shaft — the **axial family** |
+| **Centrifugal**, radial fan, radial blower | Air is thrown outward by centrifugal force — the **centrifugal family** |
+| Forward-curved (FC), backward-curved (BC) | Impeller blade shapes **within** the centrifugal family |
+| Sirocco, plug fan, inline centrifugal | Housing variants **within** the centrifugal family |
+
+So "radial vs axial fan", "radial fan vs axial fan" and "centrifugal vs axial
+fan" all resolve to the same comparison on this page. "Propeller fan" is simply
+a colloquial name for an axial fan with exposed blades.
+
+## Forward-Curved vs Backward-Curved Impellers
+
+Once you have decided on a centrifugal fan, the next decision is the impeller:
+
+| | Forward-curved (FC) | Backward-curved (BC) |
+| --- | --- | --- |
+| Blade shape | Curved in the direction of rotation | Curved away from rotation |
+| Airflow per size | Higher | Lower |
+| Efficiency | Lower — airflow tends to stall and recirculate | Higher — stable airflow over a wide range |
+| Pressure capability | Moderate | Higher, and more stable against duct resistance |
+| Noise | Higher, and more sensitive to duty point | Lower, with a cleaner spectrum |
+| Fouling | Traps dust between blades | Self-cleaning tendency |
+| Typical use | Light HVAC, convectors, appliances | Industrial HVAC, cleanrooms, filter-heavy systems |
+
+For anything with filters, long ducts or continuous duty, **backward-curved**
+is the defensible choice; forward-curved survives only where first cost and
+compactness outweigh efficiency. SUNXFAN's BC series (BC133 through BC310) are
+all backward-curved, and every model's curve is published rather than quoted
+on request.
+
+
+
 ## Which Motor Type: AC, DC or EC?
 
 Both fan families share the same motor technology ladder:
@@ -156,4 +231,4 @@ a validated fan solution.
 
 Source: [https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/](https://en.sunxfan.com/en/blog/axial-fan-vs-centrifugal-fan-difference/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

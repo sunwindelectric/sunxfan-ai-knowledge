@@ -116,4 +116,4 @@ these packages, see our
 
 Source: [https://en.sunxfan.com/en/blog/why-rack-mount-fan-packages-are-more-popular/](https://en.sunxfan.com/en/blog/why-rack-mount-fan-packages-are-more-popular/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_

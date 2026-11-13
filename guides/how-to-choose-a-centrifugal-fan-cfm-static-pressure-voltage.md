@@ -58,4 +58,4 @@ Work the four steps in order: airflow → static pressure → voltage → contro
 
 Source: [https://en.sunxfan.com/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/](https://en.sunxfan.com/en/guides/how-to-choose-a-centrifugal-fan-cfm-static-pressure-voltage/)
 
-_Last updated: 2026-11-04_
+_Last updated: 2026-11-13_
